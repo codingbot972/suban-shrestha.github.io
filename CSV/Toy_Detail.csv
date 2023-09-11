@@ -1,0 +1,1001 @@
+Invoice_Number,Date,Time,Internal_Toy_ID_Number,Toy_Item_Number,Toy_Company,Toy_Name,Suggested_Age,Units_Sold,Total_Line_Revenue,Total_COGS,Payment,Cashier_ID,Member,Coupon,Purchaser_Age,Parking_Validation
+654522,2010-01-07,10:25,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,V.W.|880-4523,No,No,39,No
+654526,2010-01-07,12:00,L217/SN,255,Duplo,Farming Scene,7 and up,5,124.75,81.1,Visa,B.X.|880-9149,No,No,29,No
+654568,2010-01-07,14:19,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Cash,Z.Q.|880-4240,No,Yes,46,Yes
+654576,2010-01-25,12:57,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Discover,D.U.|880-2953,No,No,36,No
+654613,2010-02-05,14:51,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,D.Z.|880-1179,No,No,33,No
+654624,2010-02-05,14:36,D250/AT,192,Duplo,Policemen,6 and up,5,49.75,25.85,Cash,L.W.|880-4986,No,No,47,No
+654650,2010-02-06,14:33,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,D.S.|880-7532,No,No,34,No
+654650,2010-02-06,14:33,L195/AE,195,Lego,Airplane,8 and up,2,11.9,6.18,Mastercard,D.S.|880-7532,No,No,34,No
+654668,2010-02-11,13:42,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Check,D.W.|880-7199,No,No,47,Yes
+654673,2010-02-20,15:27,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,4,39.8,17.92,Cash,W.B.|880-9647,No,No,32,No
+654693,2010-03-11,15:45,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,B.Y.|880-6845,No,No,36,No
+654693,2010-03-11,15:45,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Cash,B.Y.|880-6845,No,No,36,No
+654733,2010-03-11,13:59,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,2,19.9,8.96,Visa,P.N.|880-3021,No,No,36,No
+654754,2010-03-27,12:08,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,P.N.|880-3021,No,No,33,No
+654799,2010-04-03,15:27,D255/FE,192,Duplo,Policemen,6 and up,3,29.85,15.51,Cash,A.U.|880-2167,Yes,No,47,No
+654827,2010-04-09,15:58,D254/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Mastercard,A.U.|880-2167,No,No,35,Yes
+654834,2010-04-09,12:06,D254/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Visa,Z.Q.|880-4240,Yes,Yes,49,No
+654860,2010-04-09,17:12,L195/AE,195,Lego,Airplane,8 and up,2,11.9,6.18,Gift Card,B.B.|880-9330,No,Yes,30,No
+654883,2010-04-09,12:59,L217/SN,255,Duplo,Farming Scene,7 and up,3,74.85,48.66,Visa,Z.Q.|880-4240,No,No,42,Yes
+654908,2010-04-14,19:54,D218/FN,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,L.C.|880-6872,No,No,39,No
+654932,2010-04-14,12:42,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,U.O.|880-3720,No,No,36,Yes
+654979,2010-04-17,14:16,D254/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Cash,D.W.|880-7199,No,Yes,39,No
+655029,2010-04-22,13:39,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Discover,S.V.|880-5987,No,Yes,63,No
+655035,2010-04-24,17:16,L340/FS,340,Lego,Fire Trucks,6 and up,2,69.9,39.84,Mastercard,V.W.|880-4523,Yes,Yes,38,No
+655083,2010-04-25,16:52,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,2,19.9,8.96,Visa,N.W.|880-6237,No,Yes,33,No
+655105,2010-05-01,15:27,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Visa,U.W.|880-9683,No,No,33,No
+655105,2010-05-01,15:27,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,2,19.9,8.96,Visa,U.W.|880-9683,No,No,33,No
+655112,2010-05-04,14:47,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,H.B.|880-3254,Yes,Yes,31,No
+655124,2010-05-06,12:39,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,Z.Q.|880-4240,No,No,45,No
+655165,2010-05-30,17:40,D250/AT,192,Duplo,Policemen,6 and up,2,19.9,10.34,Cash,D.U.|880-2953,Yes,Yes,29,No
+655189,2010-05-30,16:21,L195/AE,195,Lego,Airplane,8 and up,2,11.9,6.18,Visa,B.B.|880-9330,No,No,49,No
+655232,2010-05-30,11:17,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,H.B.|880-3254,No,Yes,42,No
+655232,2010-05-30,11:17,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,2,19.9,8.96,Cash,H.B.|880-3254,No,Yes,42,No
+655281,2010-06-01,15:27,D255/FE,192,Duplo,Policemen,6 and up,4,39.8,20.68,Mastercard,W.C.|880-4861,No,No,34,Yes
+655298,2010-06-09,16:28,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Discover,V.W.|880-8599,No,No,36,No
+655323,2010-06-13,12:18,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,N.C.|880-3850,No,No,41,No
+655358,2010-06-13,19:16,L195/AE,195,Lego,Airplane,8 and up,2,11.9,6.18,Cash,W.C.|880-4861,No,No,32,Yes
+655358,2010-06-13,19:16,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,W.C.|880-4861,No,No,32,Yes
+655373,2010-06-21,12:27,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Visa,N.W.|880-6237,No,No,43,No
+655385,2010-06-21,16:05,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,2,19.9,8.96,Mastercard,W.B.|880-9647,No,No,46,No
+655412,2010-06-24,11:39,D254/FE,192,Duplo,Policemen,6 and up,5,49.75,25.85,Mastercard,H.B.|880-3254,No,No,65,No
+655412,2010-06-24,11:39,D250/AT,192,Duplo,Policemen,6 and up,2,19.9,10.34,Mastercard,H.B.|880-3254,No,No,65,No
+655420,2010-06-26,16:09,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,2,19.9,8.96,Mastercard,A.U.|880-2167,No,No,56,Yes
+655467,2010-07-04,13:46,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Cash,Y.P.|880-6894,No,No,34,Yes
+655505,2010-07-09,9:10,D254/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Gift Card,N.C.|880-3850,No,No,30,Yes
+655526,2010-07-09,12:57,D250/AT,192,Duplo,Policemen,6 and up,3,29.85,15.51,Mastercard,Z.Q.|880-4240,No,No,24,Yes
+655557,2010-07-10,16:00,L195/AE,195,Lego,Airplane,8 and up,4,23.8,12.36,Visa,V.W.|880-8599,No,No,37,No
+655557,2010-07-10,16:00,D255/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Visa,V.W.|880-8599,No,No,37,No
+655570,2010-07-18,14:46,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,L.W.|880-4986,No,Yes,37,No
+655577,2010-07-19,11:24,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,4,39.8,17.92,Mastercard,V.W.|880-8599,No,No,12,No
+655613,2010-07-25,12:04,D250/AT,192,Duplo,Policemen,6 and up,2,19.9,10.34,Visa,L.W.|880-4986,No,No,64,No
+655623,2010-07-29,10:13,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,D.U.|880-2953,No,No,43,No
+655643,2010-07-30,11:49,L195/AE,195,Lego,Airplane,8 and up,3,17.85,9.27,Gift Card,N.C.|880-3850,No,No,48,No
+655661,2010-08-09,16:56,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,C.X.|880-3590,Yes,Yes,34,No
+655661,2010-08-09,16:56,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,C.X.|880-3590,Yes,Yes,34,No
+655673,2010-08-16,15:42,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,D.U.|880-2953,No,No,50,Yes
+655676,2010-08-18,18:27,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,D.Z.|880-1179,No,No,38,No
+655676,2010-08-18,18:27,D254/FE,192,Duplo,Policemen,6 and up,4,39.8,20.68,Cash,D.Z.|880-1179,No,No,38,No
+655679,2010-08-24,16:49,D250/AT,192,Duplo,Policemen,6 and up,3,29.85,15.51,Gift Card,S.V.|880-5987,No,No,41,No
+655716,2010-09-02,16:19,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,U.W.|880-9683,Yes,No,21,No
+655731,2010-09-05,18:17,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,Z.T.|880-7477,No,Yes,31,No
+655768,2010-09-12,14:41,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Mastercard,H.B.|880-3254,No,No,40,No
+655793,2010-09-12,17:33,D255/FE,192,Duplo,Policemen,6 and up,3,29.85,15.51,Cash,A.U.|880-2167,Yes,Yes,48,No
+655793,2010-09-12,17:33,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,A.U.|880-2167,Yes,Yes,48,No
+655833,2010-09-21,18:36,L195/AE,195,Lego,Airplane,8 and up,2,11.9,6.18,Discover,H.B.|880-3254,No,No,32,Yes
+655833,2010-09-21,18:36,D250/AT,192,Duplo,Policemen,6 and up,2,19.9,10.34,Discover,H.B.|880-3254,No,No,32,Yes
+655842,2010-10-04,13:49,D250/AT,192,Duplo,Policemen,6 and up,2,19.9,10.34,Cash,D.W.|880-7199,No,No,44,No
+655845,2010-10-14,20:37,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Mastercard,N.C.|880-3850,No,No,34,No
+655894,2010-10-16,16:01,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Discover,D.S.|880-7532,No,No,40,No
+655933,2010-10-16,10:30,L195/AE,195,Lego,Airplane,8 and up,2,11.9,6.18,Cash,U.W.|880-9683,No,No,31,No
+655965,2010-10-21,11:27,L196/AR,196,Lego,Antique Car,8 and up,2,15.9,8.9,Visa,W.C.|880-4861,No,No,45,No
+655965,2010-10-21,11:27,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,W.C.|880-4861,No,No,45,No
+655976,2010-11-01,8:55,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Check,D.W.|880-7199,No,No,34,No
+656007,2010-11-01,20:07,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,Z.T.|880-7477,No,No,43,No
+656032,2010-11-01,19:55,L194/FY,194,Lego,Family,4 and up,1,14.95,8.37,Visa,W.B.|880-9647,No,No,43,No
+656032,2010-11-01,19:55,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,W.B.|880-9647,No,No,43,No
+656077,2010-11-02,19:21,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Cash,U.W.|880-9683,Yes,No,37,No
+656123,2010-11-02,15:27,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Gift Card,V.W.|880-8599,No,Yes,38,Yes
+656125,2010-11-02,11:49,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,U.O.|880-3720,No,No,37,No
+656125,2010-11-02,11:49,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Cash,U.O.|880-3720,No,No,37,No
+656171,2010-11-02,15:14,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,3,29.85,13.44,Visa,S.V.|880-5987,No,No,50,No
+656171,2010-11-02,15:14,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Visa,S.V.|880-5987,No,No,50,No
+656207,2010-11-02,13:25,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,N.C.|880-3850,No,No,50,No
+656246,2010-11-02,10:59,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Visa,A.U.|880-2167,No,Yes,43,No
+656246,2010-11-02,10:59,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Visa,A.U.|880-2167,No,Yes,43,No
+656287,2010-11-03,15:33,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Check,C.X.|880-3590,No,No,43,No
+656300,2010-11-03,17:16,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,N.C.|880-3850,No,No,27,No
+656314,2010-11-03,12:48,D255/FE,192,Duplo,Policemen,6 and up,4,39.8,20.68,Visa,D.S.|880-7532,No,Yes,26,No
+656314,2010-11-03,12:48,L195/AE,195,Lego,Airplane,8 and up,5,29.75,15.45,Visa,D.S.|880-7532,No,Yes,26,No
+656314,2010-11-03,12:48,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Visa,D.S.|880-7532,No,Yes,26,No
+656364,2010-11-04,16:56,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Visa,C.X.|880-3590,No,No,38,Yes
+656380,2010-11-05,15:40,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,Z.T.|880-7477,No,No,29,No
+656416,2010-11-05,16:06,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,4,39.8,17.92,Cash,C.X.|880-3590,Yes,No,14,No
+656416,2010-11-05,16:06,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,C.X.|880-3590,Yes,No,14,No
+656444,2010-11-05,15:19,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,B.Y.|880-6845,No,Yes,44,Yes
+656478,2010-11-05,20:51,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Visa,W.B.|880-9647,No,Yes,32,No
+656495,2010-11-05,13:37,L195/AE,195,Lego,Airplane,8 and up,2,11.9,6.18,Check,D.U.|880-2953,No,No,30,No
+656518,2010-11-05,13:12,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Visa,B.B.|880-9330,No,No,19,No
+656533,2010-11-05,11:01,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Cash,V.W.|880-4523,No,No,50,No
+656547,2010-11-06,20:00,L195/AE,195,Lego,Airplane,8 and up,2,11.9,6.18,Visa,D.U.|880-2953,Yes,No,11,No
+656588,2010-11-06,13:24,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Visa,H.B.|880-3254,Yes,Yes,41,Yes
+656617,2010-11-06,10:52,D250/AT,192,Duplo,Policemen,6 and up,2,19.9,10.34,Visa,A.U.|880-2167,No,No,38,No
+656617,2010-11-06,10:52,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,A.U.|880-2167,No,No,38,No
+656628,2010-11-06,10:15,L330/GN,330,Lego,Gas Station,8 and up,1,32.95,19.11,Discover,U.O.|880-3720,No,No,37,No
+656637,2010-11-06,11:00,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,B.Y.|880-6845,No,No,30,No
+656648,2010-11-06,13:24,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Visa,W.B.|880-9647,No,No,11,No
+656657,2010-11-06,15:04,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,U.W.|880-9683,No,No,22,No
+656657,2010-11-06,15:04,L212/SD,212,Lego,Scooter and Stand,6 and up,1,4.95,2.23,Cash,U.W.|880-9683,No,No,22,No
+656657,2010-11-06,15:04,D218/FN,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,U.W.|880-9683,No,No,22,No
+656671,2010-11-07,13:21,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Gift Card,S.V.|880-5987,No,No,37,No
+656692,2010-11-08,15:22,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Visa,L.W.|880-4986,No,No,11,No
+656737,2010-11-08,19:04,D250/AT,192,Duplo,Policemen,6 and up,2,19.9,10.34,Visa,D.S.|880-7532,No,No,40,No
+656757,2010-11-08,9:24,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,S.Y.|880-3139,No,No,36,Yes
+656757,2010-11-08,9:24,D254/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Cash,S.Y.|880-3139,No,No,36,Yes
+656770,2010-11-09,14:56,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,H.B.|880-3254,No,No,66,No
+656807,2010-11-10,11:28,L210/CS,210,Lego,Cowboys with Horses,6 and up,1,9.45,4.63,Visa,P.N.|880-3021,No,No,48,No
+656822,2010-11-10,8:07,D254/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Mastercard,B.B.|880-9330,No,No,57,No
+656847,2010-11-10,12:25,D198/LX,192,Duplo,Policemen,6 and up,2,19.9,10.34,Visa,S.Y.|880-3139,Yes,No,38,No
+656854,2010-11-10,11:12,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Mastercard,V.W.|880-4523,No,Yes,31,No
+656893,2010-11-10,15:20,L212/SD,212,Lego,Scooter and Stand,6 and up,1,4.95,2.23,Visa,U.O.|880-3720,No,No,45,No
+656931,2010-11-11,9:09,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,A.U.|880-2167,No,No,30,No
+656952,2010-11-11,11:40,L195/AE,195,Lego,Airplane,8 and up,3,17.85,9.27,Cash,N.C.|880-3850,No,No,38,No
+656956,2010-11-11,12:48,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Mastercard,V.W.|880-8599,No,No,24,No
+656991,2010-11-11,15:47,D255/FE,192,Duplo,Policemen,6 and up,4,39.8,20.68,Visa,V.W.|880-4523,No,Yes,43,No
+656991,2010-11-11,15:47,D198/LX,192,Duplo,Policemen,6 and up,2,19.9,10.34,Visa,V.W.|880-4523,No,Yes,43,No
+657009,2010-11-11,12:02,D255/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Cash,V.W.|880-8599,No,No,36,No
+657052,2010-11-11,19:45,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Check,B.B.|880-9330,No,Yes,34,Yes
+657052,2010-11-11,19:45,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Check,B.B.|880-9330,No,Yes,34,Yes
+657055,2010-11-12,11:37,D250/AT,192,Duplo,Policemen,6 and up,2,19.9,10.34,Check,D.S.|880-7532,No,No,36,No
+657055,2010-11-12,11:37,D250/AT,192,Duplo,Policemen,6 and up,2,19.9,10.34,Check,D.S.|880-7532,No,No,36,No
+657055,2010-11-12,11:37,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Check,D.S.|880-7532,No,No,36,No
+657093,2010-11-12,13:33,D250/AT,192,Duplo,Policemen,6 and up,5,49.75,25.85,Visa,Y.P.|880-6894,Yes,No,31,Yes
+657101,2010-11-13,9:53,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Gift Card,Z.T.|880-7477,Yes,No,41,Yes
+657140,2010-11-13,16:50,L340/FS,340,Lego,Fire Trucks,6 and up,2,69.9,39.84,Visa,B.Y.|880-6845,No,No,34,No
+657140,2010-11-13,16:50,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,B.Y.|880-6845,No,No,34,No
+657187,2010-11-13,10:39,D250/AT,192,Duplo,Policemen,6 and up,2,19.9,10.34,Gift Card,Z.Q.|880-4240,No,No,31,Yes
+657232,2010-11-13,20:11,L195/AE,195,Lego,Airplane,8 and up,3,17.85,9.27,Visa,C.X.|880-3590,No,No,31,Yes
+657255,2010-11-14,17:18,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Check,U.O.|880-3720,No,No,27,Yes
+657291,2010-11-14,12:37,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Cash,Z.T.|880-7477,No,No,49,No
+657306,2010-11-14,9:50,D254/FE,192,Duplo,Policemen,6 and up,4,39.8,20.68,Visa,N.C.|880-3850,No,No,69,Yes
+657316,2010-11-15,16:45,L252/LR,255,Duplo,Farming Scene,7 and up,1,24.95,16.22,Mastercard,P.N.|880-3021,No,No,20,No
+657320,2010-11-15,8:24,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,B.X.|880-9149,No,No,30,Yes
+657336,2010-11-15,8:29,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,H.B.|880-3254,No,No,37,Yes
+657336,2010-11-15,8:29,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,H.B.|880-3254,No,No,37,Yes
+657366,2010-11-16,8:44,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,2,19.9,8.96,Mastercard,B.X.|880-9149,No,No,42,No
+657415,2010-11-16,11:59,D250/AT,192,Duplo,Policemen,6 and up,2,19.9,10.34,Visa,S.V.|880-5987,No,No,41,Yes
+657415,2010-11-16,11:59,D255/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Visa,S.V.|880-5987,No,No,41,Yes
+657447,2010-11-17,13:42,L195/AE,195,Lego,Airplane,8 and up,4,23.8,12.36,Mastercard,L.W.|880-4986,No,Yes,40,Yes
+657482,2010-11-17,10:13,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,2,19.9,8.96,Discover,D.W.|880-7199,No,No,39,Yes
+657512,2010-11-17,11:34,D192/PN,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,N.C.|880-3850,No,No,31,No
+657529,2010-11-17,15:44,D255/FE,192,Duplo,Policemen,6 and up,5,49.75,25.85,Mastercard,B.Y.|880-6845,No,No,40,No
+657533,2010-11-17,16:32,D254/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Mastercard,B.B.|880-9330,Yes,No,38,No
+657533,2010-11-17,16:32,L195/AE,195,Lego,Airplane,8 and up,3,17.85,9.27,Mastercard,B.B.|880-9330,Yes,No,38,No
+657533,2010-11-17,16:32,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,B.B.|880-9330,Yes,No,38,No
+657563,2010-11-17,13:18,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Visa,D.W.|880-7199,No,No,25,No
+657591,2010-11-18,19:45,L194/FY,194,Lego,Family,4 and up,1,14.95,8.37,Visa,W.C.|880-4861,No,No,26,No
+657607,2010-11-18,13:44,D250/AT,192,Duplo,Policemen,6 and up,2,19.9,10.34,Visa,D.S.|880-7532,Yes,No,44,No
+657635,2010-11-18,13:05,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,D.U.|880-2953,No,No,50,No
+657663,2010-11-19,14:05,L330/GN,330,Lego,Gas Station,8 and up,4,131.8,76.44,Visa,D.W.|880-7199,No,No,28,No
+657663,2010-11-19,14:05,D255/FE,192,Duplo,Policemen,6 and up,5,49.75,25.85,Visa,D.W.|880-7199,No,No,28,No
+657686,2010-11-19,12:06,L195/AE,195,Lego,Airplane,8 and up,2,11.9,6.18,Mastercard,S.Y.|880-3139,No,No,60,No
+657703,2010-11-20,11:39,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Discover,U.W.|880-9683,No,No,31,No
+657712,2010-11-20,18:11,L195/AE,195,Lego,Airplane,8 and up,2,11.9,6.18,Visa,U.W.|880-9683,No,No,42,No
+657751,2010-11-20,10:41,D250/AT,192,Duplo,Policemen,6 and up,5,49.75,25.85,Mastercard,H.B.|880-3254,No,No,48,No
+657751,2010-11-20,10:41,D250/AT,192,Duplo,Policemen,6 and up,2,19.9,10.34,Mastercard,H.B.|880-3254,No,No,48,No
+657769,2010-11-20,18:34,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,3,29.85,13.44,Cash,S.V.|880-5987,No,No,30,No
+657815,2010-11-20,12:12,D250/AT,192,Duplo,Policemen,6 and up,2,19.9,10.34,Cash,P.N.|880-3021,No,No,44,No
+657839,2010-11-21,15:01,L195/AE,195,Lego,Airplane,8 and up,3,17.85,9.27,Mastercard,N.W.|880-6237,No,No,35,No
+657858,2010-11-21,12:19,D250/AT,192,Duplo,Policemen,6 and up,2,19.9,10.34,Gift Card,N.C.|880-3850,No,No,50,No
+657884,2010-11-21,15:37,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Discover,V.W.|880-4523,No,No,30,No
+657887,2010-11-21,13:09,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Cash,D.S.|880-7532,No,No,38,No
+657921,2010-11-22,8:58,D254/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Cash,Y.P.|880-6894,No,No,30,Yes
+657945,2010-11-22,13:39,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Cash,S.Y.|880-3139,No,No,30,No
+657946,2010-11-22,19:31,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,3,29.85,13.44,Cash,V.W.|880-8599,No,No,31,No
+657946,2010-11-22,19:31,L330/GN,330,Lego,Gas Station,8 and up,4,131.8,76.44,Cash,V.W.|880-8599,No,No,31,No
+657946,2010-11-22,19:31,L195/AE,195,Lego,Airplane,8 and up,2,11.9,6.18,Cash,V.W.|880-8599,No,No,31,No
+657967,2010-11-23,13:55,D254/FE,192,Duplo,Policemen,6 and up,5,49.75,25.85,Mastercard,C.X.|880-3590,No,No,36,No
+657971,2010-11-23,10:58,L195/AE,195,Lego,Airplane,8 and up,2,11.9,6.18,Discover,H.B.|880-3254,No,No,50,Yes
+657973,2010-11-23,10:14,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Check,B.Y.|880-6845,Yes,No,25,No
+657985,2010-11-23,15:29,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,U.W.|880-9683,No,No,30,No
+658025,2010-11-23,9:24,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,3,29.85,13.44,Discover,Z.T.|880-7477,No,No,44,No
+658054,2010-11-24,14:09,L195/AE,195,Lego,Airplane,8 and up,2,11.9,6.18,Visa,H.B.|880-3254,No,No,29,No
+658088,2010-11-24,16:13,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,D.U.|880-2953,No,No,38,No
+658095,2010-11-24,18:35,D254/FE,192,Duplo,Policemen,6 and up,4,39.8,20.68,Mastercard,L.C.|880-6872,Yes,Yes,30,Yes
+658095,2010-11-24,18:35,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,L.C.|880-6872,Yes,Yes,30,Yes
+658135,2010-11-25,16:22,L194/FY,194,Lego,Family,4 and up,1,14.95,8.37,Visa,U.O.|880-3720,No,No,49,No
+658157,2010-11-26,16:59,D255/FE,192,Duplo,Policemen,6 and up,5,49.75,25.85,Visa,Z.Q.|880-4240,No,No,34,No
+658183,2010-11-26,15:34,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Discover,B.X.|880-9149,No,No,39,No
+658183,2010-11-26,15:34,D250/AT,192,Duplo,Policemen,6 and up,4,39.8,20.68,Discover,B.X.|880-9149,No,No,39,No
+658221,2010-11-26,15:21,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,L.C.|880-6872,No,No,11,No
+658267,2010-11-26,18:50,L195/AE,195,Lego,Airplane,8 and up,2,11.9,6.18,Visa,N.C.|880-3850,No,No,34,No
+658278,2010-11-26,19:56,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Visa,L.W.|880-4986,No,No,36,No
+658280,2010-11-26,11:15,D254/FE,192,Duplo,Policemen,6 and up,5,49.75,25.85,Discover,S.Y.|880-3139,No,No,32,No
+658330,2010-11-26,19:00,L195/AE,195,Lego,Airplane,8 and up,2,11.9,6.18,Cash,U.O.|880-3720,No,No,36,No
+658361,2010-11-27,15:36,L330/GN,330,Lego,Gas Station,8 and up,1,32.95,19.11,Visa,B.Y.|880-6845,No,Yes,47,No
+658387,2010-11-27,12:25,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,2,19.9,8.96,Discover,N.W.|880-6237,No,No,32,No
+658404,2010-11-27,12:16,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Discover,S.V.|880-5987,No,Yes,21,No
+658406,2010-11-27,10:55,D255/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Gift Card,B.Y.|880-6845,No,No,34,No
+658406,2010-11-27,10:55,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Gift Card,B.Y.|880-6845,No,No,34,No
+658456,2010-11-27,14:18,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,D.S.|880-7532,No,No,66,No
+658456,2010-11-27,14:18,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Visa,D.S.|880-7532,No,No,66,No
+658476,2010-11-28,15:13,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Visa,V.W.|880-4523,No,No,34,No
+658499,2010-11-28,16:56,D250/AT,192,Duplo,Policemen,6 and up,2,19.9,10.34,Mastercard,Z.T.|880-7477,No,No,39,No
+658521,2010-11-28,14:47,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Cash,B.B.|880-9330,No,No,66,No
+658562,2010-11-28,13:23,D255/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Mastercard,D.U.|880-2953,No,No,34,No
+658599,2010-11-28,14:37,D250/AT,192,Duplo,Policemen,6 and up,2,19.9,10.34,Cash,D.Z.|880-1179,No,Yes,41,No
+658628,2010-11-28,13:13,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Cash,W.C.|880-4861,Yes,No,48,No
+658641,2010-11-28,16:19,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,B.Y.|880-6845,No,No,34,No
+658688,2010-11-29,13:30,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,2,19.9,8.96,Cash,L.W.|880-4986,No,No,53,No
+658701,2010-11-29,11:31,L195/AE,195,Lego,Airplane,8 and up,4,23.8,12.36,Mastercard,L.W.|880-4986,No,No,43,No
+658715,2010-11-29,12:50,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,5,49.75,22.4,Mastercard,V.W.|880-8599,No,No,39,No
+658755,2010-11-29,12:24,L210/CS,210,Lego,Cowboys with Horses,6 and up,4,37.8,18.52,Visa,V.W.|880-8599,No,No,31,No
+658773,2010-11-29,11:57,D255/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Cash,A.U.|880-2167,No,No,34,No
+658817,2010-11-30,11:05,L195/AE,195,Lego,Airplane,8 and up,2,11.9,6.18,Visa,N.C.|880-3850,No,No,31,Yes
+658851,2010-11-30,14:02,D250/AT,192,Duplo,Policemen,6 and up,4,39.8,20.68,Visa,W.C.|880-4861,No,No,36,No
+658858,2010-11-30,11:50,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Visa,W.B.|880-9647,No,No,38,No
+658894,2010-11-30,12:46,D254/FE,192,Duplo,Policemen,6 and up,3,29.85,15.51,Cash,D.W.|880-7199,No,Yes,43,No
+658894,2010-11-30,12:46,D255/FE,192,Duplo,Policemen,6 and up,4,39.8,20.68,Cash,D.W.|880-7199,No,Yes,43,No
+658915,2010-12-01,18:03,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,S.V.|880-5987,No,No,39,No
+658942,2010-12-01,11:16,L330/GN,330,Lego,Gas Station,8 and up,2,65.9,38.22,Visa,V.W.|880-8599,No,No,31,No
+658968,2010-12-01,11:03,L197/FS,199,Duplo,Scooter,4 and up,4,19.8,10.08,Cash,S.V.|880-5987,No,No,27,Yes
+659005,2010-12-01,13:00,D254/FE,192,Duplo,Policemen,6 and up,4,39.8,20.68,Visa,Y.P.|880-6894,No,No,36,No
+659005,2010-12-01,13:00,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,Y.P.|880-6894,No,No,36,No
+659007,2010-12-02,13:16,D254/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Cash,N.W.|880-6237,Yes,Yes,30,No
+659039,2010-12-02,11:30,L195/AE,195,Lego,Airplane,8 and up,3,17.85,9.27,Mastercard,N.W.|880-6237,Yes,No,55,Yes
+659065,2010-12-02,16:13,L195/AE,195,Lego,Airplane,8 and up,2,11.9,6.18,Visa,N.W.|880-6237,No,No,33,Yes
+659082,2010-12-02,12:18,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Check,D.W.|880-7199,No,No,39,Yes
+659106,2010-12-02,18:23,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,4,39.8,17.92,Discover,H.B.|880-3254,No,No,34,No
+659126,2010-12-02,15:17,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,D.S.|880-7532,No,No,39,Yes
+659155,2010-12-02,16:20,D255/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Visa,Y.P.|880-6894,No,No,32,No
+659189,2010-12-02,14:21,D198/LX,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,Z.Q.|880-4240,No,No,47,No
+659211,2010-12-03,11:55,D254/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Visa,H.B.|880-3254,No,No,32,No
+659219,2010-12-03,13:50,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,B.X.|880-9149,No,No,25,Yes
+659261,2010-12-03,11:11,D255/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Visa,V.W.|880-4523,No,No,40,No
+659269,2010-12-03,13:43,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,P.N.|880-3021,No,No,44,Yes
+659277,2010-12-04,9:50,L195/AE,195,Lego,Airplane,8 and up,5,29.75,15.45,Cash,D.Z.|880-1179,Yes,No,73,Yes
+659294,2010-12-04,11:57,D254/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Check,Y.P.|880-6894,No,No,25,No
+659294,2010-12-04,11:57,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Check,Y.P.|880-6894,No,No,25,No
+659343,2010-12-05,16:59,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Cash,B.Y.|880-6845,No,No,47,No
+659353,2010-12-05,11:27,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,V.W.|880-8599,No,No,27,Yes
+659395,2010-12-05,14:23,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,C.X.|880-3590,No,No,48,No
+659439,2010-12-05,8:54,D254/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Mastercard,D.W.|880-7199,No,No,41,No
+659439,2010-12-05,8:54,L195/AE,195,Lego,Airplane,8 and up,2,11.9,6.18,Mastercard,D.W.|880-7199,No,No,41,No
+659457,2010-12-05,16:34,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,D.S.|880-7532,No,No,25,Yes
+659478,2010-12-06,16:59,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Cash,L.C.|880-6872,No,No,42,No
+659504,2010-12-06,14:31,D255/FE,192,Duplo,Policemen,6 and up,5,49.75,25.85,Cash,S.Y.|880-3139,No,No,29,No
+659552,2010-12-06,13:47,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Discover,L.C.|880-6872,No,No,30,No
+659552,2010-12-06,13:47,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Discover,L.C.|880-6872,No,No,30,No
+659591,2010-12-06,16:34,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,P.N.|880-3021,No,No,58,No
+659591,2010-12-06,16:34,D250/AT,192,Duplo,Policemen,6 and up,4,39.8,20.68,Visa,P.N.|880-3021,No,No,58,No
+659616,2010-12-06,17:54,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Gift Card,Z.T.|880-7477,No,No,35,No
+659629,2010-12-06,11:29,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,L.W.|880-4986,No,No,37,No
+659646,2010-12-06,12:03,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,5,49.75,22.4,Mastercard,H.B.|880-3254,No,No,27,No
+659651,2010-12-06,16:55,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,D.W.|880-7199,No,No,38,Yes
+659692,2010-12-06,14:40,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,W.B.|880-9647,Yes,No,38,Yes
+659699,2010-12-06,14:00,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Mastercard,V.W.|880-8599,No,No,53,Yes
+659700,2010-12-06,11:45,D218/FN,192,Duplo,Policemen,6 and up,4,39.8,20.68,Mastercard,P.N.|880-3021,No,No,34,No
+659720,2010-12-08,16:45,D254/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Visa,P.N.|880-3021,No,No,18,No
+659720,2010-12-08,16:45,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Visa,P.N.|880-3021,No,No,18,No
+659731,2010-12-08,11:16,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Gift Card,Y.P.|880-6894,Yes,No,43,No
+659750,2010-12-09,15:01,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,L.W.|880-4986,No,No,27,No
+659750,2010-12-09,15:01,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Mastercard,L.W.|880-4986,No,No,27,No
+659750,2010-12-09,15:01,D254/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Mastercard,L.W.|880-4986,No,No,27,No
+659759,2010-12-09,13:17,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,S.Y.|880-3139,No,No,30,No
+659765,2010-12-09,14:23,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Visa,Z.Q.|880-4240,Yes,No,27,No
+659788,2010-12-10,10:32,L195/AE,195,Lego,Airplane,8 and up,3,17.85,9.27,Check,H.B.|880-3254,No,No,7,Yes
+659807,2010-12-10,13:36,D192/PN,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,B.Y.|880-6845,No,No,50,No
+659830,2010-12-10,10:07,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Gift Card,W.C.|880-4861,No,No,31,Yes
+659835,2010-12-10,16:01,L195/AE,195,Lego,Airplane,8 and up,4,23.8,12.36,Visa,W.B.|880-9647,No,No,44,No
+659855,2010-12-10,18:27,D255/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Mastercard,U.O.|880-3720,No,No,67,No
+659882,2010-12-10,13:40,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,2,19.9,8.96,Visa,Z.T.|880-7477,Yes,Yes,46,No
+659895,2010-12-11,11:38,D250/AT,192,Duplo,Policemen,6 and up,2,19.9,10.34,Cash,L.C.|880-6872,No,No,25,No
+659916,2010-12-12,14:19,L210/CS,210,Lego,Cowboys with Horses,6 and up,1,9.45,4.63,Visa,C.X.|880-3590,No,No,42,Yes
+659916,2010-12-12,14:19,D254/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Visa,C.X.|880-3590,No,No,42,Yes
+659936,2010-12-13,11:38,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,L.C.|880-6872,No,No,38,No
+659976,2010-12-13,12:45,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Cash,W.C.|880-4861,No,No,25,No
+659976,2010-12-13,12:45,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,W.C.|880-4861,No,No,25,No
+659976,2010-12-13,12:45,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Cash,W.C.|880-4861,No,No,25,No
+660004,2010-12-13,16:22,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,W.B.|880-9647,Yes,No,43,No
+660020,2010-12-14,20:35,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,5,49.75,22.4,Gift Card,B.X.|880-9149,No,No,67,No
+660045,2010-12-14,13:21,D250/AT,192,Duplo,Policemen,6 and up,4,39.8,20.68,Cash,B.X.|880-9149,No,No,34,Yes
+660045,2010-12-14,13:21,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Cash,B.X.|880-9149,No,No,34,Yes
+660066,2010-12-14,11:16,D254/FE,192,Duplo,Policemen,6 and up,5,49.75,25.85,Mastercard,D.U.|880-2953,No,No,34,No
+660066,2010-12-14,11:16,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Mastercard,D.U.|880-2953,No,No,34,No
+660066,2010-12-14,11:16,D255/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Mastercard,D.U.|880-2953,No,No,34,No
+660097,2010-12-14,14:00,D255/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Mastercard,B.X.|880-9149,Yes,Yes,39,No
+660117,2010-12-15,13:02,D192/PN,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,S.V.|880-5987,Yes,No,35,No
+660150,2010-12-15,10:01,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Gift Card,B.B.|880-9330,No,No,38,No
+660150,2010-12-15,10:01,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Gift Card,B.B.|880-9330,No,No,38,No
+660165,2010-12-15,13:51,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,B.B.|880-9330,No,No,41,No
+660208,2010-12-15,15:15,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,Z.Q.|880-4240,No,No,39,No
+660241,2010-12-15,12:40,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Visa,L.C.|880-6872,No,Yes,41,Yes
+660241,2010-12-15,12:40,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Visa,L.C.|880-6872,No,Yes,41,Yes
+660275,2010-12-16,11:27,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,W.B.|880-9647,No,No,44,Yes
+660317,2010-12-16,13:17,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Gift Card,U.W.|880-9683,No,No,38,No
+660317,2010-12-16,13:17,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Gift Card,U.W.|880-9683,No,No,38,No
+660341,2010-12-16,10:45,D250/AT,192,Duplo,Policemen,6 and up,2,19.9,10.34,Cash,L.W.|880-4986,No,No,40,No
+660374,2010-12-16,15:52,D254/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Mastercard,U.O.|880-3720,No,Yes,40,No
+660374,2010-12-16,15:52,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,2,19.9,8.96,Mastercard,U.O.|880-3720,No,Yes,40,No
+660413,2010-12-16,13:23,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,Z.T.|880-7477,No,No,38,No
+660413,2010-12-16,13:23,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,Z.T.|880-7477,No,No,38,No
+660459,2010-12-16,15:48,D199/SR,192,Duplo,Policemen,6 and up,1,9.95,5.17,Gift Card,S.V.|880-5987,No,No,35,No
+660490,2010-12-16,10:12,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,2,19.9,8.96,Cash,L.W.|880-4986,No,No,34,Yes
+660503,2010-12-16,20:53,D198/LX,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,C.X.|880-3590,No,No,29,No
+660544,2010-12-16,15:32,D254/FE,192,Duplo,Policemen,6 and up,4,39.8,20.68,Cash,Z.Q.|880-4240,No,No,40,No
+660556,2010-12-16,12:57,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,N.W.|880-6237,No,No,41,No
+660562,2010-12-17,15:18,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,H.B.|880-3254,Yes,No,32,No
+660563,2010-12-17,11:56,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Mastercard,B.B.|880-9330,No,No,36,No
+660571,2010-12-17,10:11,L195/AE,195,Lego,Airplane,8 and up,2,11.9,6.18,Visa,U.O.|880-3720,No,No,40,No
+660571,2010-12-17,10:11,D250/AT,192,Duplo,Policemen,6 and up,2,19.9,10.34,Visa,U.O.|880-3720,No,No,40,No
+660576,2010-12-18,15:12,L195/AE,195,Lego,Airplane,8 and up,2,11.9,6.18,Visa,N.W.|880-6237,No,No,30,Yes
+660585,2010-12-18,12:06,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,3,29.85,13.44,Mastercard,B.Y.|880-6845,No,Yes,40,No
+660585,2010-12-18,12:06,D250/AT,192,Duplo,Policemen,6 and up,4,39.8,20.68,Mastercard,B.Y.|880-6845,No,Yes,40,No
+660633,2010-12-18,11:17,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,2,19.9,8.96,Visa,S.V.|880-5987,No,No,36,No
+660633,2010-12-18,11:17,D255/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Visa,S.V.|880-5987,No,No,36,No
+660668,2010-12-18,12:24,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,4,39.8,17.92,Visa,B.Y.|880-6845,No,No,42,No
+660668,2010-12-18,12:24,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,B.Y.|880-6845,No,No,42,No
+660685,2010-12-19,12:01,D255/FE,192,Duplo,Policemen,6 and up,5,49.75,25.85,Gift Card,N.W.|880-6237,No,No,31,No
+660685,2010-12-19,12:01,L340/FS,340,Lego,Fire Trucks,6 and up,2,69.9,39.84,Gift Card,N.W.|880-6237,No,No,31,No
+660685,2010-12-19,12:01,D255/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Gift Card,N.W.|880-6237,No,No,31,No
+660707,2010-12-20,12:01,D192/PN,192,Duplo,Policemen,6 and up,2,19.9,10.34,Visa,A.U.|880-2167,No,No,30,No
+660757,2010-12-20,12:59,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Gift Card,B.Y.|880-6845,No,No,51,Yes
+660805,2010-12-21,13:11,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Visa,D.S.|880-7532,No,No,45,No
+660845,2010-12-21,15:29,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,Z.T.|880-7477,No,No,38,No
+660893,2010-12-21,10:17,L195/AE,195,Lego,Airplane,8 and up,4,23.8,12.36,Visa,Z.Q.|880-4240,No,No,27,Yes
+660926,2010-12-21,16:24,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,2,19.9,8.96,Visa,D.W.|880-7199,No,No,39,Yes
+660964,2010-12-21,8:19,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,H.B.|880-3254,No,No,48,No
+660989,2010-12-21,15:51,L196/AR,196,Lego,Antique Car,8 and up,3,23.85,13.35,Cash,V.W.|880-8599,No,No,73,No
+660994,2010-12-21,12:54,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Visa,C.X.|880-3590,No,No,31,No
+661002,2010-12-22,15:02,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,L.W.|880-4986,No,No,35,No
+661044,2010-12-22,8:52,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,W.C.|880-4861,No,No,40,Yes
+661083,2010-12-22,18:15,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Cash,A.U.|880-2167,No,No,48,Yes
+661083,2010-12-22,18:15,D255/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Cash,A.U.|880-2167,No,No,48,Yes
+661083,2010-12-22,18:15,D255/FE,192,Duplo,Policemen,6 and up,5,49.75,25.85,Cash,A.U.|880-2167,No,No,48,Yes
+661121,2010-12-23,12:52,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Check,S.V.|880-5987,No,No,37,No
+661154,2010-12-24,16:18,L210/CS,210,Lego,Cowboys with Horses,6 and up,1,9.45,4.63,Gift Card,V.W.|880-4523,No,No,35,No
+661195,2010-12-24,10:36,D250/AT,192,Duplo,Policemen,6 and up,2,19.9,10.34,Check,B.X.|880-9149,No,No,49,No
+661234,2010-12-24,13:44,D198/LX,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,D.U.|880-2953,No,No,54,No
+661236,2010-12-24,13:19,D254/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Mastercard,P.N.|880-3021,Yes,No,42,No
+661251,2010-12-25,16:49,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Visa,B.Y.|880-6845,No,No,50,No
+661251,2010-12-25,16:49,D254/FE,192,Duplo,Policemen,6 and up,5,49.75,25.85,Visa,B.Y.|880-6845,No,No,50,No
+661286,2010-12-25,12:55,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Visa,U.O.|880-3720,No,No,39,No
+661326,2010-12-25,14:31,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,V.W.|880-4523,No,No,11,Yes
+661368,2010-12-25,19:24,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Gift Card,H.B.|880-3254,No,No,36,Yes
+661387,2010-12-25,14:20,L195/AE,195,Lego,Airplane,8 and up,5,29.75,15.45,Cash,S.V.|880-5987,No,No,43,No
+661403,2010-12-25,14:46,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Mastercard,D.U.|880-2953,No,Yes,39,No
+661431,2010-12-25,15:06,L195/AE,195,Lego,Airplane,8 and up,2,11.9,6.18,Mastercard,S.Y.|880-3139,No,No,39,Yes
+661475,2010-12-25,10:13,L252/LR,255,Duplo,Farming Scene,7 and up,4,99.8,64.88,Mastercard,W.B.|880-9647,Yes,No,42,No
+661481,2010-12-31,12:12,D250/AT,192,Duplo,Policemen,6 and up,2,19.9,10.34,Check,P.N.|880-3021,No,No,33,Yes
+661528,2011-01-05,11:54,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Cash,N.W.|880-6237,No,No,50,No
+661558,2011-01-06,10:06,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,P.N.|880-3021,Yes,Yes,33,No
+661568,2011-01-21,16:55,D198/LX,192,Duplo,Policemen,6 and up,2,19.9,10.34,Visa,W.B.|880-9647,No,No,39,No
+661602,2011-01-23,13:59,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,U.W.|880-9683,No,No,16,No
+661635,2011-01-31,8:40,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Check,Z.T.|880-7477,No,No,32,No
+661651,2011-02-08,15:25,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,B.X.|880-9149,No,No,31,No
+661651,2011-02-08,15:25,D250/AT,192,Duplo,Policemen,6 and up,2,19.9,10.34,Mastercard,B.X.|880-9149,No,No,31,No
+661664,2011-02-22,15:43,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Visa,S.V.|880-5987,No,No,25,No
+661664,2011-02-22,15:43,L195/AE,195,Lego,Airplane,8 and up,2,11.9,6.18,Visa,S.V.|880-5987,No,No,25,No
+661705,2011-02-28,15:21,D218/FN,192,Duplo,Policemen,6 and up,5,49.75,25.85,Gift Card,D.Z.|880-1179,No,No,40,No
+661721,2011-02-28,14:45,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,5,49.75,22.4,Visa,A.U.|880-2167,No,Yes,55,No
+661734,2011-03-12,13:06,D250/AT,192,Duplo,Policemen,6 and up,2,19.9,10.34,Check,Z.T.|880-7477,No,No,47,No
+661758,2011-03-18,12:53,L195/AE,195,Lego,Airplane,8 and up,3,17.85,9.27,Mastercard,B.Y.|880-6845,No,No,61,No
+661758,2011-03-18,12:53,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Mastercard,B.Y.|880-6845,No,No,61,No
+661772,2011-03-25,9:26,L197/FS,199,Duplo,Scooter,4 and up,2,9.9,5.04,Cash,N.C.|880-3850,No,No,43,No
+661774,2011-04-19,9:30,L252/LR,255,Duplo,Farming Scene,7 and up,1,24.95,16.22,Visa,Y.P.|880-6894,No,No,32,Yes
+661786,2011-04-19,15:30,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Check,S.Y.|880-3139,No,No,25,No
+661786,2011-04-19,15:30,L210/CS,210,Lego,Cowboys with Horses,6 and up,2,18.9,9.26,Check,S.Y.|880-3139,No,No,25,No
+661817,2011-04-28,18:00,D255/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Mastercard,W.C.|880-4861,No,No,32,No
+661861,2011-05-07,12:36,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Visa,V.W.|880-8599,No,No,37,No
+661908,2011-05-08,14:52,D255/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Discover,P.N.|880-3021,No,No,27,No
+661933,2011-05-08,13:28,L195/AE,195,Lego,Airplane,8 and up,3,17.85,9.27,Cash,B.B.|880-9330,No,No,57,No
+661972,2011-05-14,14:13,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,L.W.|880-4986,No,No,38,No
+662019,2011-05-17,12:21,D254/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Mastercard,U.O.|880-3720,No,No,38,No
+662019,2011-05-17,12:21,L195/AE,195,Lego,Airplane,8 and up,4,23.8,12.36,Mastercard,U.O.|880-3720,No,No,38,No
+662065,2011-05-24,12:55,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,P.N.|880-3021,No,No,38,No
+662065,2011-05-24,12:55,D254/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Cash,P.N.|880-3021,No,No,38,No
+662065,2011-05-24,12:55,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Cash,P.N.|880-3021,No,No,38,No
+662077,2011-05-29,16:27,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,B.B.|880-9330,No,No,43,Yes
+662078,2011-05-30,14:21,D250/AT,192,Duplo,Policemen,6 and up,2,19.9,10.34,Visa,D.S.|880-7532,No,No,12,No
+662095,2011-06-02,18:13,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,N.C.|880-3850,No,No,47,No
+662095,2011-06-02,18:13,D254/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Visa,N.C.|880-3850,No,No,47,No
+662140,2011-06-16,9:16,D255/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Check,Y.P.|880-6894,No,No,37,No
+662189,2011-06-20,8:01,L195/AE,195,Lego,Airplane,8 and up,3,17.85,9.27,Check,D.W.|880-7199,Yes,No,34,No
+662221,2011-06-23,15:45,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Visa,A.U.|880-2167,No,No,43,No
+662242,2011-06-25,8:20,L212/SD,212,Lego,Scooter and Stand,6 and up,2,9.9,4.46,Visa,Z.Q.|880-4240,No,No,39,No
+662272,2011-06-26,11:42,L210/CS,210,Lego,Cowboys with Horses,6 and up,1,9.45,4.63,Visa,L.W.|880-4986,No,Yes,44,No
+662272,2011-06-26,11:42,L195/AE,195,Lego,Airplane,8 and up,2,11.9,6.18,Visa,L.W.|880-4986,No,Yes,44,No
+662313,2011-06-27,15:50,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,3,29.85,13.44,Visa,B.X.|880-9149,No,No,31,No
+662321,2011-06-27,9:15,L195/AE,195,Lego,Airplane,8 and up,5,29.75,15.45,Visa,W.C.|880-4861,No,No,40,No
+662333,2011-07-03,13:39,D255/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Discover,N.C.|880-3850,No,Yes,22,No
+662367,2011-07-03,19:03,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,V.W.|880-4523,No,No,47,No
+662408,2011-07-18,16:54,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Check,V.W.|880-4523,No,No,35,No
+662436,2011-07-20,11:17,D250/AT,192,Duplo,Policemen,6 and up,2,19.9,10.34,Check,N.W.|880-6237,No,No,36,No
+662462,2011-07-22,13:50,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,S.V.|880-5987,No,No,32,Yes
+662467,2011-07-25,15:39,D254/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Visa,P.N.|880-3021,Yes,No,25,No
+662496,2011-07-26,14:05,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Mastercard,D.Z.|880-1179,No,No,30,No
+662514,2011-08-13,12:37,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Cash,U.O.|880-3720,Yes,Yes,38,No
+662560,2011-08-17,11:47,D255/FE,192,Duplo,Policemen,6 and up,4,39.8,20.68,Visa,Z.T.|880-7477,No,Yes,49,No
+662571,2011-08-19,14:42,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,A.U.|880-2167,No,No,32,No
+662586,2011-08-19,16:00,D250/AT,192,Duplo,Policemen,6 and up,5,49.75,25.85,Gift Card,W.B.|880-9647,No,No,51,Yes
+662599,2011-08-23,14:36,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,U.W.|880-9683,No,No,44,No
+662613,2011-08-23,14:25,L195/AE,195,Lego,Airplane,8 and up,2,11.9,6.18,Gift Card,N.W.|880-6237,Yes,Yes,18,No
+662613,2011-08-23,14:25,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Gift Card,N.W.|880-6237,Yes,Yes,18,No
+662663,2011-08-25,8:21,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Mastercard,D.U.|880-2953,No,No,43,No
+662663,2011-08-25,8:21,D255/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Mastercard,D.U.|880-2953,No,No,43,No
+662693,2011-08-30,15:29,L195/AE,195,Lego,Airplane,8 and up,5,29.75,15.45,Visa,D.Z.|880-1179,No,No,27,No
+662695,2011-09-01,11:31,L340/FS,340,Lego,Fire Trucks,6 and up,2,69.9,39.84,Visa,N.W.|880-6237,Yes,No,49,No
+662729,2011-09-03,15:09,D255/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Gift Card,Z.T.|880-7477,No,No,31,No
+662751,2011-09-03,10:57,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,5,49.75,22.4,Cash,U.W.|880-9683,No,Yes,43,Yes
+662775,2011-09-12,13:20,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,5,49.75,22.4,Check,S.Y.|880-3139,No,No,35,Yes
+662824,2011-09-16,14:01,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,W.C.|880-4861,No,No,49,No
+662870,2011-09-17,11:14,L195/AE,195,Lego,Airplane,8 and up,2,11.9,6.18,Visa,W.C.|880-4861,No,No,47,Yes
+662870,2011-09-17,11:14,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Visa,W.C.|880-4861,No,No,47,Yes
+662883,2011-09-18,12:06,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,5,49.75,22.4,Cash,W.C.|880-4861,No,No,36,No
+662923,2011-09-18,19:06,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,W.C.|880-4861,No,No,34,No
+662964,2011-09-29,15:36,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Cash,D.U.|880-2953,No,No,40,Yes
+662977,2011-09-29,15:48,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Mastercard,D.U.|880-2953,Yes,No,44,No
+662993,2011-10-06,9:22,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,2,19.9,8.96,Mastercard,D.U.|880-2953,No,No,33,Yes
+663020,2011-10-13,15:22,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Visa,V.W.|880-8599,Yes,No,44,Yes
+663036,2011-10-25,16:52,D250/AT,192,Duplo,Policemen,6 and up,2,19.9,10.34,Visa,L.C.|880-6872,No,No,22,No
+663053,2011-10-29,13:27,L195/AE,195,Lego,Airplane,8 and up,2,11.9,6.18,Visa,Z.T.|880-7477,No,No,38,No
+663053,2011-10-29,13:27,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Visa,Z.T.|880-7477,No,No,38,No
+663082,2011-11-01,16:25,D254/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Mastercard,B.B.|880-9330,No,No,36,No
+663082,2011-11-01,16:25,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,B.B.|880-9330,No,No,36,No
+663115,2011-11-01,12:15,L195/AE,195,Lego,Airplane,8 and up,3,17.85,9.27,Visa,P.N.|880-3021,Yes,Yes,40,Yes
+663129,2011-11-01,10:21,D198/LX,192,Duplo,Policemen,6 and up,2,19.9,10.34,Discover,P.N.|880-3021,No,Yes,35,No
+663148,2011-11-01,11:49,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Visa,C.X.|880-3590,No,No,27,No
+663187,2011-11-01,13:06,D254/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Visa,S.Y.|880-3139,No,No,34,No
+663196,2011-11-02,15:22,L195/AE,195,Lego,Airplane,8 and up,4,23.8,12.36,Gift Card,U.W.|880-9683,No,No,31,No
+663196,2011-11-02,15:22,L195/AE,195,Lego,Airplane,8 and up,4,23.8,12.36,Gift Card,U.W.|880-9683,No,No,31,No
+663229,2011-11-02,15:28,D250/AT,192,Duplo,Policemen,6 and up,2,19.9,10.34,Visa,S.Y.|880-3139,No,No,42,No
+663268,2011-11-02,16:46,D254/FE,192,Duplo,Policemen,6 and up,3,29.85,15.51,Visa,V.W.|880-8599,Yes,No,43,Yes
+663268,2011-11-02,16:46,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,V.W.|880-8599,Yes,No,43,Yes
+663301,2011-11-02,17:51,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,L.W.|880-4986,Yes,No,34,No
+663314,2011-11-02,8:52,D255/FE,192,Duplo,Policemen,6 and up,4,39.8,20.68,Discover,Z.T.|880-7477,No,No,33,No
+663314,2011-11-02,8:52,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Discover,Z.T.|880-7477,No,No,33,No
+663314,2011-11-02,8:52,D254/FE,192,Duplo,Policemen,6 and up,4,39.8,20.68,Discover,Z.T.|880-7477,No,No,33,No
+663351,2011-11-03,14:49,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,N.C.|880-3850,No,No,33,No
+663366,2011-11-03,15:47,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,Y.P.|880-6894,No,No,39,Yes
+663384,2011-11-04,9:04,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,A.U.|880-2167,Yes,No,42,No
+663384,2011-11-04,9:04,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Mastercard,A.U.|880-2167,Yes,No,42,No
+663425,2011-11-05,19:01,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Cash,H.B.|880-3254,No,No,32,No
+663455,2011-11-05,16:04,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,D.S.|880-7532,No,No,40,No
+663495,2011-11-05,15:06,D218/FN,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,U.W.|880-9683,No,No,30,No
+663506,2011-11-06,12:39,L252/LR,255,Duplo,Farming Scene,7 and up,2,49.9,32.44,Gift Card,B.B.|880-9330,No,No,33,No
+663521,2011-11-06,15:57,L330/GN,330,Lego,Gas Station,8 and up,1,32.95,19.11,Cash,V.W.|880-4523,No,No,27,No
+663523,2011-11-06,16:17,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Check,Z.T.|880-7477,No,Yes,45,No
+663523,2011-11-06,16:17,L217/SN,255,Duplo,Farming Scene,7 and up,1,24.95,16.22,Check,Z.T.|880-7477,No,Yes,45,No
+663561,2011-11-06,12:00,D255/FE,192,Duplo,Policemen,6 and up,4,39.8,20.68,Cash,L.W.|880-4986,No,No,45,No
+663570,2011-11-06,10:55,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Mastercard,S.V.|880-5987,No,No,39,No
+663600,2011-11-06,11:11,L196/AR,196,Lego,Antique Car,8 and up,2,15.9,8.9,Mastercard,S.Y.|880-3139,No,No,39,No
+663612,2011-11-06,14:01,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Mastercard,L.W.|880-4986,Yes,No,30,No
+663653,2011-11-06,16:05,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Discover,N.C.|880-3850,No,No,44,No
+663694,2011-11-06,10:19,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Mastercard,C.X.|880-3590,No,Yes,49,No
+663723,2011-11-07,12:18,D250/AT,192,Duplo,Policemen,6 and up,2,19.9,10.34,Visa,H.B.|880-3254,Yes,No,37,No
+663756,2011-11-07,17:04,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Cash,P.N.|880-3021,No,No,38,No
+663799,2011-11-08,12:05,D254/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Mastercard,N.C.|880-3850,No,No,49,No
+663800,2011-11-09,9:56,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,Y.P.|880-6894,No,No,32,No
+663822,2011-11-10,12:24,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Visa,D.U.|880-2953,No,Yes,34,No
+663854,2011-11-10,12:25,D254/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Cash,B.B.|880-9330,No,No,48,No
+663889,2011-11-10,15:59,L195/AE,195,Lego,Airplane,8 and up,2,11.9,6.18,Cash,V.W.|880-8599,No,No,43,No
+663919,2011-11-10,9:55,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,N.C.|880-3850,No,No,43,No
+663919,2011-11-10,9:55,L252/LR,255,Duplo,Farming Scene,7 and up,1,24.95,16.22,Visa,N.C.|880-3850,No,No,43,No
+663951,2011-11-10,14:20,L217/SN,255,Duplo,Farming Scene,7 and up,1,24.95,16.22,Visa,Z.T.|880-7477,No,No,41,No
+663971,2011-11-10,15:26,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,N.W.|880-6237,Yes,No,32,No
+663977,2011-11-10,8:46,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,Z.T.|880-7477,No,Yes,46,No
+664005,2011-11-11,14:55,L195/AE,195,Lego,Airplane,8 and up,2,11.9,6.18,Discover,H.B.|880-3254,No,No,30,No
+664006,2011-11-11,16:44,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,W.C.|880-4861,No,No,37,No
+664016,2011-11-12,11:18,D250/AT,192,Duplo,Policemen,6 and up,2,19.9,10.34,Discover,N.W.|880-6237,No,No,38,No
+664016,2011-11-12,11:18,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Discover,N.W.|880-6237,No,No,38,No
+664047,2011-11-12,15:06,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Discover,W.C.|880-4861,No,No,43,No
+664082,2011-11-12,16:13,D199/SR,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,N.C.|880-3850,Yes,No,43,Yes
+664111,2011-11-12,11:13,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,N.C.|880-3850,No,No,35,No
+664126,2011-11-13,13:39,D254/FE,192,Duplo,Policemen,6 and up,5,49.75,25.85,Cash,L.C.|880-6872,No,No,33,No
+664135,2011-11-13,20:33,D254/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Check,B.Y.|880-6845,Yes,Yes,48,No
+664158,2011-11-13,9:10,D254/FE,192,Duplo,Policemen,6 and up,4,39.8,20.68,Mastercard,Z.T.|880-7477,No,No,30,No
+664200,2011-11-14,12:49,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,S.V.|880-5987,No,No,60,No
+664203,2011-11-14,15:40,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Mastercard,U.O.|880-3720,No,No,35,No
+664218,2011-11-14,10:00,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Visa,D.S.|880-7532,No,No,30,Yes
+664268,2011-11-15,9:58,D250/AT,192,Duplo,Policemen,6 and up,3,29.85,15.51,Visa,S.V.|880-5987,No,Yes,31,No
+664303,2011-11-15,19:51,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,S.Y.|880-3139,No,No,31,Yes
+664322,2011-11-16,8:48,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Mastercard,L.C.|880-6872,No,No,37,No
+664322,2011-11-16,8:48,L194/FY,194,Lego,Family,4 and up,4,59.8,33.48,Mastercard,L.C.|880-6872,No,No,37,No
+664369,2011-11-16,15:55,D250/AT,192,Duplo,Policemen,6 and up,2,19.9,10.34,Mastercard,D.Z.|880-1179,No,No,32,No
+664388,2011-11-17,14:50,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,S.Y.|880-3139,No,No,46,Yes
+664415,2011-11-17,16:27,D254/FE,192,Duplo,Policemen,6 and up,3,29.85,15.51,Mastercard,V.W.|880-4523,No,No,66,No
+664436,2011-11-17,12:12,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,W.C.|880-4861,No,No,37,No
+664436,2011-11-17,12:12,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Visa,W.C.|880-4861,No,No,37,No
+664478,2011-11-17,13:00,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Cash,S.Y.|880-3139,No,No,29,No
+664520,2011-11-18,15:58,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,N.W.|880-6237,Yes,Yes,29,Yes
+664522,2011-11-18,12:01,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,2,19.9,8.96,Visa,D.W.|880-7199,No,No,46,No
+664571,2011-11-18,13:46,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,S.Y.|880-3139,No,No,38,No
+664571,2011-11-18,13:46,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Visa,S.Y.|880-3139,No,No,38,No
+664616,2011-11-19,14:12,L195/AE,195,Lego,Airplane,8 and up,4,23.8,12.36,Cash,V.W.|880-8599,Yes,Yes,21,No
+664616,2011-11-19,14:12,D255/FE,192,Duplo,Policemen,6 and up,3,29.85,15.51,Cash,V.W.|880-8599,Yes,Yes,21,No
+664616,2011-11-19,14:12,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,V.W.|880-8599,Yes,Yes,21,No
+664659,2011-11-20,20:44,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,C.X.|880-3590,No,Yes,28,No
+664659,2011-11-20,20:44,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,C.X.|880-3590,No,Yes,28,No
+664707,2011-11-21,15:26,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,2,19.9,8.96,Discover,U.W.|880-9683,No,No,21,No
+664731,2011-11-21,12:49,L194/FY,194,Lego,Family,4 and up,1,14.95,8.37,Visa,L.C.|880-6872,No,Yes,25,No
+664741,2011-11-21,16:49,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,2,19.9,8.96,Discover,S.Y.|880-3139,No,No,50,No
+664756,2011-11-21,18:16,D198/LX,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,L.C.|880-6872,No,No,49,No
+664782,2011-11-21,11:51,D254/FE,192,Duplo,Policemen,6 and up,3,29.85,15.51,Discover,C.X.|880-3590,No,No,66,No
+664782,2011-11-21,11:51,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Discover,C.X.|880-3590,No,No,66,No
+664787,2011-11-22,11:55,D254/FE,192,Duplo,Policemen,6 and up,4,39.8,20.68,Visa,P.N.|880-3021,No,Yes,50,No
+664789,2011-11-22,14:01,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,B.B.|880-9330,Yes,No,45,No
+664789,2011-11-22,14:01,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,B.B.|880-9330,Yes,No,45,No
+664807,2011-11-22,17:46,L195/AE,195,Lego,Airplane,8 and up,2,11.9,6.18,Cash,D.Z.|880-1179,No,No,50,Yes
+664856,2011-11-22,9:18,L197/FS,199,Duplo,Scooter,4 and up,2,9.9,5.04,Cash,D.W.|880-7199,No,No,39,Yes
+664884,2011-11-22,11:17,D198/LX,192,Duplo,Policemen,6 and up,2,19.9,10.34,Mastercard,U.W.|880-9683,No,No,28,No
+664898,2011-11-22,10:15,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Visa,A.U.|880-2167,No,No,26,Yes
+664948,2011-11-22,16:14,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,2,19.9,8.96,Cash,D.W.|880-7199,No,No,37,Yes
+664948,2011-11-22,16:14,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Cash,D.W.|880-7199,No,No,37,Yes
+664958,2011-11-22,12:47,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,4,39.8,17.92,Cash,B.X.|880-9149,No,No,37,No
+664989,2011-11-22,13:02,D192/PN,192,Duplo,Policemen,6 and up,2,19.9,10.34,Check,W.C.|880-4861,No,No,27,No
+664989,2011-11-22,13:02,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Check,W.C.|880-4861,No,No,27,No
+665036,2011-11-23,15:52,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,B.Y.|880-6845,No,Yes,34,No
+665052,2011-11-23,10:32,D255/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Mastercard,V.W.|880-4523,Yes,No,33,No
+665100,2011-11-23,15:52,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,2,19.9,8.96,Visa,U.O.|880-3720,No,No,11,No
+665111,2011-11-23,12:53,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Discover,D.Z.|880-1179,Yes,Yes,36,Yes
+665119,2011-11-24,19:00,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Cash,N.C.|880-3850,Yes,Yes,35,No
+665119,2011-11-24,19:00,D255/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Cash,N.C.|880-3850,Yes,Yes,35,No
+665161,2011-11-24,14:38,D255/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Check,P.N.|880-3021,Yes,Yes,72,No
+665186,2011-11-25,13:14,L197/FS,199,Duplo,Scooter,4 and up,2,9.9,5.04,Visa,Z.T.|880-7477,No,No,46,Yes
+665213,2011-11-25,11:33,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Discover,W.B.|880-9647,No,No,43,No
+665255,2011-11-26,16:23,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,2,19.9,8.96,Visa,V.W.|880-4523,Yes,No,31,No
+665264,2011-11-26,14:11,D250/AT,192,Duplo,Policemen,6 and up,2,19.9,10.34,Mastercard,P.N.|880-3021,No,No,35,No
+665295,2011-11-26,14:12,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Check,D.U.|880-2953,No,No,38,No
+665337,2011-11-26,12:58,L195/AE,195,Lego,Airplane,8 and up,2,11.9,6.18,Discover,U.W.|880-9683,No,Yes,30,Yes
+665337,2011-11-26,12:58,L195/AE,195,Lego,Airplane,8 and up,5,29.75,15.45,Discover,U.W.|880-9683,No,Yes,30,Yes
+665367,2011-11-27,15:14,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Check,N.C.|880-3850,No,No,31,No
+665367,2011-11-27,15:14,L197/FS,199,Duplo,Scooter,4 and up,4,19.8,10.08,Check,N.C.|880-3850,No,No,31,No
+665379,2011-11-27,9:33,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,P.N.|880-3021,No,No,44,No
+665405,2011-11-28,16:58,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Visa,Z.T.|880-7477,No,No,37,No
+665409,2011-11-28,15:24,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,A.U.|880-2167,No,No,33,No
+665449,2011-11-28,11:48,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,U.W.|880-9683,No,No,43,No
+665449,2011-11-28,11:48,L217/SN,255,Duplo,Farming Scene,7 and up,2,49.9,32.44,Mastercard,U.W.|880-9683,No,No,43,No
+665488,2011-11-28,14:26,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Mastercard,A.U.|880-2167,Yes,No,43,Yes
+665519,2011-11-28,16:07,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Cash,S.V.|880-5987,No,No,38,No
+665520,2011-11-29,20:40,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,4,39.8,17.92,Visa,U.W.|880-9683,No,No,69,Yes
+665569,2011-11-29,15:54,D250/AT,192,Duplo,Policemen,6 and up,4,39.8,20.68,Gift Card,S.V.|880-5987,No,No,40,Yes
+665605,2011-11-29,10:00,L195/AE,195,Lego,Airplane,8 and up,4,23.8,12.36,Check,Z.T.|880-7477,No,No,40,Yes
+665621,2011-11-29,13:23,D254/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Cash,U.O.|880-3720,No,No,34,Yes
+665647,2011-11-29,16:55,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Visa,V.W.|880-8599,No,No,27,No
+665658,2011-11-29,11:40,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,4,39.8,17.92,Mastercard,Y.P.|880-6894,No,No,36,Yes
+665658,2011-11-29,11:40,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,Y.P.|880-6894,No,No,36,Yes
+665663,2011-11-29,20:09,L217/SN,255,Duplo,Farming Scene,7 and up,1,24.95,16.22,Visa,D.U.|880-2953,No,No,40,No
+665711,2011-11-29,13:22,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,D.U.|880-2953,No,No,32,No
+665724,2011-11-30,11:36,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,Z.Q.|880-4240,Yes,Yes,20,No
+665727,2011-11-30,11:07,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,D.U.|880-2953,No,No,27,No
+665727,2011-11-30,11:07,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,D.U.|880-2953,No,No,27,No
+665727,2011-11-30,11:07,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,D.U.|880-2953,No,No,27,No
+665765,2011-12-01,9:33,L195/AE,195,Lego,Airplane,8 and up,2,11.9,6.18,Visa,U.O.|880-3720,No,No,36,Yes
+665815,2011-12-01,11:19,D199/SR,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,V.W.|880-8599,No,No,61,No
+665815,2011-12-01,11:19,L195/AE,195,Lego,Airplane,8 and up,4,23.8,12.36,Mastercard,V.W.|880-8599,No,No,61,No
+665840,2011-12-01,15:49,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Discover,A.U.|880-2167,No,No,30,No
+665840,2011-12-01,15:49,D218/FN,192,Duplo,Policemen,6 and up,2,19.9,10.34,Discover,A.U.|880-2167,No,No,30,No
+665857,2011-12-01,11:08,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,B.X.|880-9149,Yes,No,20,No
+665902,2011-12-01,13:06,D255/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Cash,S.Y.|880-3139,No,No,32,No
+665932,2011-12-02,13:07,L252/LR,255,Duplo,Farming Scene,7 and up,1,24.95,16.22,Visa,B.B.|880-9330,No,No,37,No
+665961,2011-12-02,12:33,D254/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Visa,B.B.|880-9330,No,Yes,43,No
+665977,2011-12-02,13:17,D198/LX,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,D.U.|880-2953,No,No,37,No
+666002,2011-12-03,13:59,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,D.W.|880-7199,Yes,Yes,36,No
+666047,2011-12-03,10:55,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Cash,D.W.|880-7199,No,No,16,No
+666086,2011-12-03,16:54,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Cash,W.B.|880-9647,No,No,53,No
+666094,2011-12-03,13:42,L195/AE,195,Lego,Airplane,8 and up,4,23.8,12.36,Mastercard,B.B.|880-9330,No,No,32,Yes
+666100,2011-12-03,15:39,L194/FY,194,Lego,Family,4 and up,2,29.9,16.74,Cash,H.B.|880-3254,No,No,38,No
+666110,2011-12-03,10:28,D250/AT,192,Duplo,Policemen,6 and up,2,19.9,10.34,Gift Card,N.C.|880-3850,No,Yes,34,No
+666116,2011-12-03,13:44,L195/AE,195,Lego,Airplane,8 and up,3,17.85,9.27,Discover,P.N.|880-3021,No,No,47,Yes
+666137,2011-12-04,13:08,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,U.O.|880-3720,No,No,36,No
+666187,2011-12-04,13:56,D254/FE,192,Duplo,Policemen,6 and up,3,29.85,15.51,Visa,H.B.|880-3254,No,No,36,No
+666187,2011-12-04,13:56,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,H.B.|880-3254,No,No,36,No
+666232,2011-12-04,17:35,D250/AT,192,Duplo,Policemen,6 and up,4,39.8,20.68,Mastercard,D.Z.|880-1179,No,No,27,No
+666232,2011-12-04,17:35,L195/AE,195,Lego,Airplane,8 and up,3,17.85,9.27,Mastercard,D.Z.|880-1179,No,No,27,No
+666232,2011-12-04,17:35,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,D.Z.|880-1179,No,No,27,No
+666245,2011-12-04,15:30,D250/AT,192,Duplo,Policemen,6 and up,2,19.9,10.34,Discover,A.U.|880-2167,No,No,26,No
+666294,2011-12-05,20:54,L252/LR,255,Duplo,Farming Scene,7 and up,4,99.8,64.88,Mastercard,Y.P.|880-6894,No,No,39,No
+666344,2011-12-05,14:33,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Cash,U.W.|880-9683,No,No,35,Yes
+666381,2011-12-06,12:06,D255/FE,192,Duplo,Policemen,6 and up,3,29.85,15.51,Check,P.N.|880-3021,No,No,43,No
+666418,2011-12-06,14:03,L330/GN,330,Lego,Gas Station,8 and up,1,32.95,19.11,Cash,Z.T.|880-7477,No,No,36,Yes
+666436,2011-12-06,20:37,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,N.W.|880-6237,Yes,No,31,No
+666474,2011-12-06,13:45,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Gift Card,D.W.|880-7199,No,No,37,No
+666486,2011-12-06,11:10,D255/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Mastercard,B.X.|880-9149,No,No,44,No
+666486,2011-12-06,11:10,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,B.X.|880-9149,No,No,44,No
+666514,2011-12-07,20:36,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,D.Z.|880-1179,No,No,31,No
+666514,2011-12-07,20:36,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Mastercard,D.Z.|880-1179,No,No,31,No
+666514,2011-12-07,20:36,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,D.Z.|880-1179,No,No,31,No
+666559,2011-12-07,16:42,D255/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Visa,N.C.|880-3850,No,Yes,31,No
+666599,2011-12-07,11:42,D255/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Discover,H.B.|880-3254,No,No,25,Yes
+666599,2011-12-07,11:42,D250/AT,192,Duplo,Policemen,6 and up,4,39.8,20.68,Discover,H.B.|880-3254,No,No,25,Yes
+666623,2011-12-07,16:54,L195/AE,195,Lego,Airplane,8 and up,4,23.8,12.36,Visa,B.B.|880-9330,No,No,45,No
+666623,2011-12-07,16:54,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Visa,B.B.|880-9330,No,No,45,No
+666628,2011-12-08,16:04,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,4,39.8,17.92,Visa,S.Y.|880-3139,No,No,35,No
+666647,2011-12-08,15:10,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,S.Y.|880-3139,No,No,32,No
+666657,2011-12-09,12:22,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Discover,N.W.|880-6237,No,No,50,No
+666662,2011-12-09,13:11,D255/FE,192,Duplo,Policemen,6 and up,3,29.85,15.51,Cash,D.U.|880-2953,No,No,25,No
+666678,2011-12-09,13:08,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Visa,S.V.|880-5987,No,No,38,No
+666721,2011-12-09,16:41,D250/AT,192,Duplo,Policemen,6 and up,2,19.9,10.34,Mastercard,W.C.|880-4861,No,No,28,Yes
+666727,2011-12-09,10:51,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Mastercard,H.B.|880-3254,No,Yes,43,No
+666749,2011-12-10,14:46,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Discover,A.U.|880-2167,No,No,50,No
+666798,2011-12-10,19:34,L197/FS,199,Duplo,Scooter,4 and up,4,19.8,10.08,Visa,W.C.|880-4861,No,No,24,No
+666814,2011-12-10,18:25,D199/SR,192,Duplo,Policemen,6 and up,4,39.8,20.68,Gift Card,W.B.|880-9647,No,Yes,46,Yes
+666844,2011-12-10,12:04,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,V.W.|880-8599,No,No,30,No
+666888,2011-12-10,18:46,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,B.Y.|880-6845,No,No,43,No
+666918,2011-12-11,15:00,L195/AE,195,Lego,Airplane,8 and up,5,29.75,15.45,Visa,B.X.|880-9149,No,No,50,No
+666948,2011-12-11,10:49,L195/AE,195,Lego,Airplane,8 and up,2,11.9,6.18,Visa,Z.T.|880-7477,No,Yes,32,No
+666976,2011-12-11,13:13,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,N.C.|880-3850,No,Yes,47,No
+667021,2011-12-12,11:02,L217/SN,255,Duplo,Farming Scene,7 and up,4,99.8,64.88,Cash,B.X.|880-9149,No,No,32,Yes
+667056,2011-12-13,16:13,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,Z.T.|880-7477,No,No,36,No
+667092,2011-12-13,10:48,L194/FY,194,Lego,Family,4 and up,1,14.95,8.37,Gift Card,V.W.|880-8599,Yes,Yes,43,No
+667113,2011-12-13,14:23,D254/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Visa,L.C.|880-6872,No,No,67,No
+667122,2011-12-13,16:53,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Mastercard,Y.P.|880-6894,No,No,41,No
+667149,2011-12-14,14:16,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Discover,B.X.|880-9149,No,No,41,No
+667195,2011-12-14,15:52,D254/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Visa,S.V.|880-5987,Yes,No,29,No
+667195,2011-12-14,15:52,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,2,19.9,8.96,Visa,S.V.|880-5987,Yes,No,29,No
+667235,2011-12-14,15:00,D250/AT,192,Duplo,Policemen,6 and up,2,19.9,10.34,Visa,B.Y.|880-6845,Yes,No,35,No
+667284,2011-12-14,12:23,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,L.W.|880-4986,No,No,33,No
+667284,2011-12-14,12:23,D255/FE,192,Duplo,Policemen,6 and up,5,49.75,25.85,Cash,L.W.|880-4986,No,No,33,No
+667323,2011-12-14,13:06,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,V.W.|880-8599,No,No,30,Yes
+667323,2011-12-14,13:06,D255/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Cash,V.W.|880-8599,No,No,30,Yes
+667372,2011-12-15,14:01,D250/AT,192,Duplo,Policemen,6 and up,2,19.9,10.34,Visa,W.B.|880-9647,No,No,42,No
+667387,2011-12-15,18:57,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Discover,Z.T.|880-7477,Yes,No,29,No
+667425,2011-12-16,10:55,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,W.C.|880-4861,No,No,40,No
+667462,2011-12-16,16:09,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Gift Card,V.W.|880-4523,No,No,31,No
+667462,2011-12-16,16:09,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Gift Card,V.W.|880-4523,No,No,31,No
+667483,2011-12-16,18:38,D254/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Mastercard,S.Y.|880-3139,No,No,36,Yes
+667502,2011-12-16,10:45,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,H.B.|880-3254,No,No,30,No
+667541,2011-12-17,12:57,D254/FE,192,Duplo,Policemen,6 and up,3,29.85,15.51,Visa,B.Y.|880-6845,No,No,57,No
+667545,2011-12-17,16:41,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,N.W.|880-6237,No,No,19,No
+667580,2011-12-17,15:53,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Discover,W.C.|880-4861,No,No,31,No
+667628,2011-12-17,16:18,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Cash,N.C.|880-3850,No,No,31,No
+667629,2011-12-17,16:30,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,Y.P.|880-6894,No,No,17,No
+667629,2011-12-17,16:30,L195/AE,195,Lego,Airplane,8 and up,2,11.9,6.18,Visa,Y.P.|880-6894,No,No,17,No
+667654,2011-12-18,11:51,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,2,19.9,8.96,Mastercard,L.C.|880-6872,No,No,51,No
+667661,2011-12-18,13:43,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,B.X.|880-9149,Yes,No,38,No
+667700,2011-12-18,14:15,L197/FS,199,Duplo,Scooter,4 and up,1,4.95,2.52,Visa,U.W.|880-9683,No,No,27,No
+667706,2011-12-18,10:39,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Cash,P.N.|880-3021,No,No,32,Yes
+667706,2011-12-18,10:39,L210/CS,210,Lego,Cowboys with Horses,6 and up,2,18.9,9.26,Cash,P.N.|880-3021,No,No,32,Yes
+667727,2011-12-19,13:39,D250/AT,192,Duplo,Policemen,6 and up,4,39.8,20.68,Mastercard,B.Y.|880-6845,Yes,No,27,No
+667750,2011-12-19,15:38,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,5,49.75,22.4,Gift Card,D.Z.|880-1179,No,No,43,No
+667750,2011-12-19,15:38,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Gift Card,D.Z.|880-1179,No,No,43,No
+667750,2011-12-19,15:38,L195/AE,195,Lego,Airplane,8 and up,2,11.9,6.18,Gift Card,D.Z.|880-1179,No,No,43,No
+667798,2011-12-19,10:10,D250/AT,192,Duplo,Policemen,6 and up,4,39.8,20.68,Mastercard,N.C.|880-3850,No,No,31,No
+667798,2011-12-19,10:10,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Mastercard,N.C.|880-3850,No,No,31,No
+667828,2011-12-19,14:16,L212/SD,212,Lego,Scooter and Stand,6 and up,2,9.9,4.46,Check,H.B.|880-3254,No,No,38,No
+667828,2011-12-19,14:16,D255/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Check,H.B.|880-3254,No,No,38,No
+667840,2011-12-21,13:28,D254/FE,192,Duplo,Policemen,6 and up,3,29.85,15.51,Visa,S.V.|880-5987,No,No,73,No
+667840,2011-12-21,13:28,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,S.V.|880-5987,No,No,73,No
+667857,2011-12-21,15:18,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,Z.T.|880-7477,No,No,44,No
+667861,2011-12-21,13:17,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,D.U.|880-2953,No,No,6,No
+667871,2011-12-21,15:08,L252/LR,255,Duplo,Farming Scene,7 and up,2,49.9,32.44,Check,L.C.|880-6872,Yes,No,33,No
+667895,2011-12-21,15:59,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,2,19.9,8.96,Cash,D.U.|880-2953,No,No,29,No
+667932,2011-12-21,14:26,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Discover,W.C.|880-4861,No,No,35,No
+667932,2011-12-21,14:26,D254/FE,192,Duplo,Policemen,6 and up,4,39.8,20.68,Discover,W.C.|880-4861,No,No,35,No
+667953,2011-12-21,12:27,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Discover,A.U.|880-2167,No,No,50,No
+667993,2011-12-22,10:07,L195/AE,195,Lego,Airplane,8 and up,2,11.9,6.18,Cash,Y.P.|880-6894,No,No,39,No
+667995,2011-12-22,12:19,D250/AT,192,Duplo,Policemen,6 and up,2,19.9,10.34,Gift Card,U.O.|880-3720,No,No,43,No
+668018,2011-12-22,15:47,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,V.W.|880-4523,No,No,68,No
+668018,2011-12-22,15:47,L195/AE,195,Lego,Airplane,8 and up,2,11.9,6.18,Visa,V.W.|880-4523,No,No,68,No
+668052,2011-12-22,15:36,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Discover,Z.Q.|880-4240,Yes,No,21,No
+668052,2011-12-22,15:36,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Discover,Z.Q.|880-4240,Yes,No,21,No
+668095,2011-12-23,12:54,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,2,19.9,8.96,Cash,D.Z.|880-1179,No,No,32,No
+668095,2011-12-23,12:54,D254/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Cash,D.Z.|880-1179,No,No,32,No
+668130,2011-12-23,13:53,D255/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Mastercard,U.O.|880-3720,No,No,39,No
+668145,2011-12-23,13:56,L210/CS,210,Lego,Cowboys with Horses,6 and up,4,37.8,18.52,Check,B.B.|880-9330,No,No,41,No
+668156,2011-12-23,19:21,D254/FE,192,Duplo,Policemen,6 and up,3,29.85,15.51,Mastercard,U.O.|880-3720,No,No,45,No
+668184,2011-12-23,8:19,L217/SN,255,Duplo,Farming Scene,7 and up,1,24.95,16.22,Visa,A.U.|880-2167,No,No,36,No
+668207,2011-12-24,11:00,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,2,19.9,8.96,Discover,P.N.|880-3021,No,No,30,No
+668216,2011-12-24,15:58,L196/AR,196,Lego,Antique Car,8 and up,1,7.95,4.45,Visa,P.N.|880-3021,No,No,34,No
+668232,2011-12-24,14:10,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,L.W.|880-4986,No,No,31,No
+668232,2011-12-24,14:10,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,L.W.|880-4986,No,No,31,No
+668232,2011-12-24,14:10,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,L.W.|880-4986,No,No,31,No
+668261,2011-12-25,14:12,D255/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Cash,B.X.|880-9149,No,No,34,No
+668261,2011-12-25,14:12,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,B.X.|880-9149,No,No,34,No
+668293,2011-12-25,14:41,D199/SR,192,Duplo,Policemen,6 and up,2,19.9,10.34,Visa,Z.T.|880-7477,No,No,44,No
+668305,2011-12-25,11:47,L212/SD,212,Lego,Scooter and Stand,6 and up,1,4.95,2.23,Visa,A.U.|880-2167,No,No,28,No
+668326,2011-12-25,19:46,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,S.Y.|880-3139,Yes,Yes,34,No
+668376,2012-01-02,20:10,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Visa,S.V.|880-5987,No,No,37,No
+668384,2012-01-02,9:32,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Visa,C.X.|880-3590,No,No,27,No
+668384,2012-01-02,9:32,L195/AE,195,Lego,Airplane,8 and up,4,23.8,12.36,Visa,C.X.|880-3590,No,No,27,No
+668391,2012-01-08,13:18,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Mastercard,W.B.|880-9647,No,No,29,No
+668431,2012-01-13,12:46,L195/AE,195,Lego,Airplane,8 and up,5,29.75,15.45,Cash,D.S.|880-7532,No,No,32,Yes
+668451,2012-01-19,18:06,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,L.C.|880-6872,No,No,41,No
+668451,2012-01-19,18:06,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,L.C.|880-6872,No,No,41,No
+668489,2012-01-21,15:27,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,D.U.|880-2953,No,No,36,No
+668499,2012-01-29,14:21,D254/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Visa,Z.T.|880-7477,Yes,No,33,No
+668499,2012-01-29,14:21,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,Z.T.|880-7477,Yes,No,33,No
+668546,2012-02-12,9:36,L217/SN,255,Duplo,Farming Scene,7 and up,2,49.9,32.44,Discover,V.W.|880-4523,No,No,33,No
+668564,2012-02-13,17:55,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Discover,Y.P.|880-6894,No,No,35,No
+668585,2012-02-14,18:39,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,3,29.85,13.44,Gift Card,Y.P.|880-6894,No,No,39,Yes
+668585,2012-02-14,18:39,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,2,19.9,8.96,Gift Card,Y.P.|880-6894,No,No,39,Yes
+668615,2012-03-03,12:16,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,S.Y.|880-3139,No,No,35,No
+668615,2012-03-03,12:16,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,S.Y.|880-3139,No,No,35,No
+668653,2012-03-16,16:55,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Mastercard,H.B.|880-3254,No,No,40,No
+668653,2012-03-16,16:55,D250/AT,192,Duplo,Policemen,6 and up,2,19.9,10.34,Mastercard,H.B.|880-3254,No,No,40,No
+668653,2012-03-16,16:55,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Mastercard,H.B.|880-3254,No,No,40,No
+668660,2012-03-24,20:19,D254/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Cash,C.X.|880-3590,No,No,61,No
+668681,2012-04-03,14:31,L252/LR,255,Duplo,Farming Scene,7 and up,1,24.95,16.22,Visa,W.B.|880-9647,No,No,32,No
+668691,2012-04-10,20:49,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,S.Y.|880-3139,Yes,No,59,Yes
+668692,2012-04-12,20:51,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Check,A.U.|880-2167,No,No,37,Yes
+668692,2012-04-12,20:51,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Check,A.U.|880-2167,No,No,37,Yes
+668708,2012-04-21,20:20,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,D.U.|880-2953,No,No,70,No
+668714,2012-04-22,11:37,D255/FE,192,Duplo,Policemen,6 and up,4,39.8,20.68,Cash,N.W.|880-6237,No,No,23,No
+668743,2012-04-23,10:40,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,Y.P.|880-6894,No,No,35,No
+668752,2012-04-23,17:21,D250/AT,192,Duplo,Policemen,6 and up,4,39.8,20.68,Discover,D.Z.|880-1179,No,No,41,No
+668752,2012-04-23,17:21,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Discover,D.Z.|880-1179,No,No,41,No
+668801,2012-05-13,15:10,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Visa,D.U.|880-2953,No,No,27,No
+668804,2012-05-19,12:32,D250/AT,192,Duplo,Policemen,6 and up,4,39.8,20.68,Visa,S.Y.|880-3139,No,No,29,No
+668804,2012-05-19,12:32,L195/AE,195,Lego,Airplane,8 and up,3,17.85,9.27,Visa,S.Y.|880-3139,No,No,29,No
+668829,2012-05-24,13:25,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,B.X.|880-9149,No,No,34,No
+668848,2012-06-08,9:46,D255/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Visa,A.U.|880-2167,No,No,42,No
+668883,2012-06-09,11:39,L194/FY,194,Lego,Family,4 and up,2,29.9,16.74,Gift Card,V.W.|880-8599,No,No,38,No
+668903,2012-06-09,8:28,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,L.W.|880-4986,No,Yes,21,No
+668943,2012-06-11,10:28,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,N.C.|880-3850,No,No,35,No
+668982,2012-06-12,15:45,L252/LR,255,Duplo,Farming Scene,7 and up,1,24.95,16.22,Visa,A.U.|880-2167,No,No,47,Yes
+668997,2012-06-23,15:00,D254/FE,192,Duplo,Policemen,6 and up,4,39.8,20.68,Visa,S.V.|880-5987,No,No,33,No
+669021,2012-06-23,17:43,D255/FE,192,Duplo,Policemen,6 and up,3,29.85,15.51,Mastercard,B.X.|880-9149,Yes,No,35,No
+669042,2012-06-25,13:12,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Mastercard,D.U.|880-2953,No,No,59,No
+669080,2012-07-02,16:00,D199/SR,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,N.C.|880-3850,No,No,37,Yes
+669090,2012-07-02,16:20,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,P.N.|880-3021,No,Yes,31,No
+669121,2012-08-05,15:28,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,4,39.8,17.92,Check,W.C.|880-4861,No,No,50,No
+669126,2012-08-14,15:18,D255/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Mastercard,S.Y.|880-3139,No,No,42,No
+669126,2012-08-14,15:18,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,S.Y.|880-3139,No,No,42,No
+669138,2012-09-04,15:18,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Cash,S.Y.|880-3139,No,No,36,Yes
+669163,2012-09-06,13:15,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Check,D.W.|880-7199,Yes,No,39,Yes
+669163,2012-09-06,13:15,D250/AT,192,Duplo,Policemen,6 and up,5,49.75,25.85,Check,D.W.|880-7199,Yes,No,39,Yes
+669181,2012-09-09,17:49,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,W.C.|880-4861,No,No,46,No
+669197,2012-09-10,16:52,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,A.U.|880-2167,No,No,39,No
+669197,2012-09-10,16:52,D254/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Visa,A.U.|880-2167,No,No,39,No
+669198,2012-09-18,12:08,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,4,39.8,17.92,Gift Card,Z.T.|880-7477,No,No,34,No
+669198,2012-09-18,12:08,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,2,19.9,8.96,Gift Card,Z.T.|880-7477,No,No,34,No
+669208,2012-09-28,14:22,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,D.W.|880-7199,No,No,30,No
+669238,2012-10-07,12:24,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Gift Card,V.W.|880-8599,No,No,36,No
+669260,2012-10-09,12:06,D250/AT,192,Duplo,Policemen,6 and up,2,19.9,10.34,Gift Card,W.B.|880-9647,Yes,No,20,No
+669260,2012-10-09,12:06,D250/AT,192,Duplo,Policemen,6 and up,2,19.9,10.34,Gift Card,W.B.|880-9647,Yes,No,20,No
+669277,2012-10-16,13:38,L194/FY,194,Lego,Family,4 and up,1,14.95,8.37,Cash,D.U.|880-2953,No,No,23,No
+669306,2012-10-16,16:23,D255/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Cash,B.Y.|880-6845,No,No,45,No
+669318,2012-10-16,16:13,L194/FY,194,Lego,Family,4 and up,1,14.95,8.37,Visa,D.S.|880-7532,No,Yes,29,Yes
+669320,2012-10-22,16:08,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,H.B.|880-3254,No,No,24,No
+669353,2012-10-22,14:39,D250/AT,192,Duplo,Policemen,6 and up,4,39.8,20.68,Mastercard,D.U.|880-2953,No,No,60,No
+669400,2012-10-22,13:42,D255/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Gift Card,H.B.|880-3254,No,No,36,No
+669400,2012-10-22,13:42,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Gift Card,H.B.|880-3254,No,No,36,No
+669401,2012-10-30,16:02,D254/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Visa,N.W.|880-6237,No,Yes,44,No
+669401,2012-10-30,16:02,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,N.W.|880-6237,No,Yes,44,No
+669451,2012-11-01,20:07,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Cash,U.W.|880-9683,No,No,29,No
+669469,2012-11-01,12:52,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Cash,B.B.|880-9330,No,No,36,No
+669482,2012-11-01,11:05,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,L.W.|880-4986,No,No,37,No
+669482,2012-11-01,11:05,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,L.W.|880-4986,No,No,37,No
+669529,2012-11-02,11:18,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,Y.P.|880-6894,No,No,30,No
+669560,2012-11-03,12:12,L197/FS,199,Duplo,Scooter,4 and up,1,4.95,2.52,Visa,L.C.|880-6872,No,No,21,No
+669602,2012-11-04,19:37,D254/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Check,U.W.|880-9683,No,No,74,No
+669617,2012-11-04,10:26,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Mastercard,C.X.|880-3590,No,No,32,No
+669649,2012-11-04,12:35,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,D.W.|880-7199,No,No,24,No
+669652,2012-11-04,11:37,L195/AE,195,Lego,Airplane,8 and up,2,11.9,6.18,Cash,V.W.|880-8599,No,No,34,No
+669659,2012-11-04,14:15,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,Y.P.|880-6894,No,No,35,Yes
+669698,2012-11-05,13:49,D254/FE,192,Duplo,Policemen,6 and up,4,39.8,20.68,Visa,D.Z.|880-1179,No,No,56,No
+669703,2012-11-05,14:51,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Visa,W.C.|880-4861,No,No,27,No
+669722,2012-11-05,16:54,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,Z.Q.|880-4240,No,No,35,No
+669722,2012-11-05,16:54,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,Z.Q.|880-4240,No,No,35,No
+669764,2012-11-06,16:21,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,N.W.|880-6237,No,No,39,No
+669764,2012-11-06,16:21,D255/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Visa,N.W.|880-6237,No,No,39,No
+669783,2012-11-06,18:03,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,H.B.|880-3254,No,No,40,No
+669804,2012-11-06,12:00,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,N.C.|880-3850,No,No,48,No
+669805,2012-11-06,9:12,L195/AE,195,Lego,Airplane,8 and up,3,17.85,9.27,Mastercard,N.C.|880-3850,No,No,30,Yes
+669813,2012-11-06,12:17,D255/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Cash,D.Z.|880-1179,No,Yes,38,No
+669813,2012-11-06,12:17,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Cash,D.Z.|880-1179,No,Yes,38,No
+669819,2012-11-06,14:50,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Visa,S.Y.|880-3139,Yes,Yes,27,No
+669860,2012-11-06,17:30,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Discover,D.W.|880-7199,No,No,31,No
+669905,2012-11-06,14:43,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,V.W.|880-8599,No,No,39,No
+669905,2012-11-06,14:43,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,2,19.9,8.96,Cash,V.W.|880-8599,No,No,39,No
+669931,2012-11-07,9:34,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,4,39.8,17.92,Visa,S.Y.|880-3139,No,No,44,Yes
+669981,2012-11-07,13:27,D250/AT,192,Duplo,Policemen,6 and up,4,39.8,20.68,Visa,Y.P.|880-6894,No,No,27,No
+670014,2012-11-07,14:53,D255/FE,192,Duplo,Policemen,6 and up,4,39.8,20.68,Cash,B.X.|880-9149,No,No,42,No
+670015,2012-11-07,12:56,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Mastercard,D.Z.|880-1179,Yes,No,41,No
+670038,2012-11-07,16:05,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Mastercard,W.C.|880-4861,No,Yes,31,Yes
+670081,2012-11-08,12:10,L330/GN,330,Lego,Gas Station,8 and up,1,32.95,19.11,Cash,S.Y.|880-3139,No,No,59,Yes
+670120,2012-11-08,16:49,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,2,19.9,8.96,Mastercard,S.V.|880-5987,No,No,37,No
+670143,2012-11-08,13:21,D254/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Cash,S.Y.|880-3139,No,No,30,No
+670166,2012-11-08,19:22,D254/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Cash,S.V.|880-5987,No,No,31,No
+670166,2012-11-08,19:22,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,S.V.|880-5987,No,No,31,No
+670172,2012-11-08,11:02,D198/LX,192,Duplo,Policemen,6 and up,2,19.9,10.34,Cash,L.W.|880-4986,No,No,21,No
+670172,2012-11-08,11:02,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,L.W.|880-4986,No,No,21,No
+670207,2012-11-09,16:27,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,5,49.75,22.4,Mastercard,D.S.|880-7532,Yes,No,38,Yes
+670207,2012-11-09,16:27,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,2,19.9,8.96,Mastercard,D.S.|880-7532,Yes,No,38,Yes
+670245,2012-11-09,12:06,L195/AE,195,Lego,Airplane,8 and up,4,23.8,12.36,Mastercard,P.N.|880-3021,No,No,33,Yes
+670275,2012-11-10,12:30,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,B.B.|880-9330,No,No,33,No
+670311,2012-11-10,14:13,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,2,19.9,8.96,Cash,N.W.|880-6237,Yes,No,68,No
+670311,2012-11-10,14:13,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,N.W.|880-6237,Yes,No,68,No
+670358,2012-11-10,14:07,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,S.V.|880-5987,No,No,47,No
+670364,2012-11-10,17:38,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Cash,Z.T.|880-7477,No,No,29,Yes
+670394,2012-11-10,16:19,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,D.S.|880-7532,No,No,36,No
+670398,2012-11-10,13:16,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Cash,B.X.|880-9149,No,No,30,No
+670436,2012-11-11,15:13,D250/AT,192,Duplo,Policemen,6 and up,2,19.9,10.34,Visa,V.W.|880-8599,No,Yes,49,No
+670473,2012-11-11,8:42,D254/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Mastercard,D.S.|880-7532,No,No,12,Yes
+670487,2012-11-11,17:22,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,N.W.|880-6237,No,No,65,No
+670529,2012-11-12,11:15,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Mastercard,N.C.|880-3850,No,No,34,No
+670575,2012-11-12,8:40,L196/AR,196,Lego,Antique Car,8 and up,1,7.95,4.45,Gift Card,B.X.|880-9149,No,No,29,No
+670601,2012-11-12,13:06,D250/AT,192,Duplo,Policemen,6 and up,4,39.8,20.68,Visa,W.B.|880-9647,No,No,40,No
+670634,2012-11-12,13:21,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,L.W.|880-4986,No,No,36,No
+670682,2012-11-12,14:21,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Visa,Y.P.|880-6894,No,No,47,No
+670688,2012-11-13,15:36,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,S.Y.|880-3139,Yes,No,33,Yes
+670716,2012-11-13,8:01,L195/AE,195,Lego,Airplane,8 and up,2,11.9,6.18,Visa,N.W.|880-6237,No,Yes,37,No
+670723,2012-11-13,21:00,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,2,19.9,8.96,Visa,U.W.|880-9683,No,No,11,No
+670735,2012-11-13,19:02,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Visa,D.U.|880-2953,No,Yes,35,No
+670743,2012-11-14,14:39,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Visa,Y.P.|880-6894,Yes,No,34,No
+670790,2012-11-15,12:21,D254/FE,192,Duplo,Policemen,6 and up,3,29.85,15.51,Cash,D.S.|880-7532,No,No,37,Yes
+670827,2012-11-15,18:52,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Mastercard,L.C.|880-6872,No,Yes,40,No
+670870,2012-11-15,20:03,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Visa,V.W.|880-4523,No,No,27,No
+670918,2012-11-15,15:52,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Discover,N.C.|880-3850,No,No,33,Yes
+670953,2012-11-16,11:22,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Cash,W.B.|880-9647,No,No,17,No
+670977,2012-11-16,13:22,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,W.B.|880-9647,No,No,53,No
+670980,2012-11-16,12:52,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Check,D.S.|880-7532,Yes,Yes,30,No
+670980,2012-11-16,12:52,L196/AR,196,Lego,Antique Car,8 and up,1,7.95,4.45,Check,D.S.|880-7532,Yes,Yes,30,No
+670991,2012-11-16,20:13,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Cash,B.B.|880-9330,No,No,37,Yes
+671036,2012-11-16,11:39,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,D.U.|880-2953,No,No,31,Yes
+671069,2012-11-17,16:34,L195/AE,195,Lego,Airplane,8 and up,2,11.9,6.18,Mastercard,Z.T.|880-7477,No,No,26,No
+671089,2012-11-17,13:33,D255/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Cash,P.N.|880-3021,No,No,36,No
+671089,2012-11-17,13:33,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,2,19.9,8.96,Cash,P.N.|880-3021,No,No,36,No
+671089,2012-11-17,13:33,L195/AE,195,Lego,Airplane,8 and up,2,11.9,6.18,Cash,P.N.|880-3021,No,No,36,No
+671138,2012-11-17,16:19,D255/FE,192,Duplo,Policemen,6 and up,5,49.75,25.85,Gift Card,H.B.|880-3254,No,No,49,No
+671140,2012-11-17,12:59,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Visa,D.Z.|880-1179,No,No,31,Yes
+671182,2012-11-18,11:40,D254/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Visa,U.W.|880-9683,No,No,40,No
+671199,2012-11-18,20:03,D254/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Visa,S.Y.|880-3139,No,No,38,No
+671199,2012-11-18,20:03,L195/AE,195,Lego,Airplane,8 and up,2,11.9,6.18,Visa,S.Y.|880-3139,No,No,38,No
+671199,2012-11-18,20:03,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,2,19.9,8.96,Visa,S.Y.|880-3139,No,No,38,No
+671199,2012-11-18,20:03,D250/AT,192,Duplo,Policemen,6 and up,4,39.8,20.68,Visa,S.Y.|880-3139,No,No,38,No
+671210,2012-11-19,16:20,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Gift Card,S.V.|880-5987,No,No,51,No
+671256,2012-11-19,16:43,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Check,Y.P.|880-6894,No,No,11,Yes
+671256,2012-11-19,16:43,L195/AE,195,Lego,Airplane,8 and up,4,23.8,12.36,Check,Y.P.|880-6894,No,No,11,Yes
+671264,2012-11-19,13:21,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,N.C.|880-3850,No,No,48,Yes
+671283,2012-11-20,13:19,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,V.W.|880-8599,No,No,53,No
+671323,2012-11-21,13:10,L197/FS,199,Duplo,Scooter,4 and up,1,4.95,2.52,Visa,W.B.|880-9647,Yes,No,31,No
+671359,2012-11-21,14:55,D254/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Mastercard,N.W.|880-6237,No,No,59,No
+671382,2012-11-21,13:10,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,C.X.|880-3590,No,No,30,No
+671409,2012-11-22,11:23,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Gift Card,S.Y.|880-3139,No,No,60,No
+671457,2012-11-22,17:24,D250/AT,192,Duplo,Policemen,6 and up,2,19.9,10.34,Visa,L.C.|880-6872,No,No,39,Yes
+671492,2012-11-22,14:31,D250/AT,192,Duplo,Policemen,6 and up,3,29.85,15.51,Visa,W.B.|880-9647,No,Yes,35,No
+671494,2012-11-22,14:25,D250/AT,192,Duplo,Policemen,6 and up,4,39.8,20.68,Visa,W.B.|880-9647,No,No,38,No
+671517,2012-11-22,16:29,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,3,29.85,13.44,Cash,L.C.|880-6872,No,Yes,43,No
+671549,2012-11-22,16:19,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Visa,Z.Q.|880-4240,No,No,34,Yes
+671563,2012-11-23,8:02,D255/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Mastercard,Z.T.|880-7477,No,No,38,No
+671563,2012-11-23,8:02,D250/AT,192,Duplo,Policemen,6 and up,2,19.9,10.34,Mastercard,Z.T.|880-7477,No,No,38,No
+671588,2012-11-23,15:27,D255/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Cash,U.O.|880-3720,No,No,40,Yes
+671605,2012-11-23,13:07,L196/AR,196,Lego,Antique Car,8 and up,1,7.95,4.45,Visa,S.V.|880-5987,No,No,31,No
+671637,2012-11-23,16:42,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,C.X.|880-3590,Yes,No,40,No
+671647,2012-11-24,15:16,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,C.X.|880-3590,No,No,38,Yes
+671685,2012-11-24,20:36,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,2,19.9,8.96,Gift Card,A.U.|880-2167,No,No,34,No
+671700,2012-11-25,16:58,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,D.U.|880-2953,No,No,27,No
+671700,2012-11-25,16:58,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Visa,D.U.|880-2953,No,No,27,No
+671735,2012-11-25,16:58,D199/SR,192,Duplo,Policemen,6 and up,5,49.75,25.85,Visa,B.B.|880-9330,No,No,21,Yes
+671753,2012-11-25,15:46,D255/FE,192,Duplo,Policemen,6 and up,4,39.8,20.68,Visa,U.W.|880-9683,No,No,19,No
+671753,2012-11-25,15:46,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Visa,U.W.|880-9683,No,No,19,No
+671799,2012-11-26,19:18,D192/PN,192,Duplo,Policemen,6 and up,4,39.8,20.68,Discover,H.B.|880-3254,No,No,40,No
+671801,2012-11-27,10:40,L195/AE,195,Lego,Airplane,8 and up,4,23.8,12.36,Mastercard,D.Z.|880-1179,No,No,38,No
+671801,2012-11-27,10:40,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,D.Z.|880-1179,No,No,38,No
+671816,2012-11-27,12:58,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,V.W.|880-8599,No,No,28,Yes
+671858,2012-11-27,12:21,L195/AE,195,Lego,Airplane,8 and up,2,11.9,6.18,Cash,B.B.|880-9330,No,No,6,No
+671901,2012-11-28,19:34,L196/AR,196,Lego,Antique Car,8 and up,1,7.95,4.45,Cash,V.W.|880-4523,No,No,37,No
+671923,2012-11-28,13:38,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,4,39.8,17.92,Cash,U.O.|880-3720,No,No,28,Yes
+671935,2012-11-28,14:10,D254/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Visa,H.B.|880-3254,No,No,46,No
+671984,2012-11-28,16:39,D255/FE,192,Duplo,Policemen,6 and up,5,49.75,25.85,Cash,Y.P.|880-6894,No,No,40,No
+671992,2012-11-28,18:58,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,2,19.9,8.96,Discover,S.Y.|880-3139,No,No,37,Yes
+672040,2012-11-28,10:25,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Visa,Z.Q.|880-4240,Yes,No,23,Yes
+672078,2012-11-28,15:08,D254/FE,192,Duplo,Policemen,6 and up,5,49.75,25.85,Mastercard,H.B.|880-3254,No,No,31,Yes
+672091,2012-11-28,12:32,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,2,19.9,8.96,Cash,W.C.|880-4861,No,No,42,No
+672118,2012-11-28,18:26,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Gift Card,L.W.|880-4986,No,No,39,No
+672118,2012-11-28,18:26,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Gift Card,L.W.|880-4986,No,No,39,No
+672134,2012-11-28,20:01,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Visa,D.Z.|880-1179,No,No,44,No
+672134,2012-11-28,20:01,L212/SD,212,Lego,Scooter and Stand,6 and up,4,19.8,8.92,Visa,D.Z.|880-1179,No,No,44,No
+672134,2012-11-28,20:01,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,D.Z.|880-1179,No,No,44,No
+672184,2012-11-29,20:58,D250/AT,192,Duplo,Policemen,6 and up,2,19.9,10.34,Visa,U.O.|880-3720,No,No,32,No
+672184,2012-11-29,20:58,L210/CS,210,Lego,Cowboys with Horses,6 and up,2,18.9,9.26,Visa,U.O.|880-3720,No,No,32,No
+672193,2012-11-29,11:24,D250/AT,192,Duplo,Policemen,6 and up,2,19.9,10.34,Visa,C.X.|880-3590,No,No,48,No
+672236,2012-11-29,16:10,L340/FS,340,Lego,Fire Trucks,6 and up,1,34.95,19.92,Visa,N.W.|880-6237,No,No,46,Yes
+672276,2012-11-29,13:03,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Cash,N.C.|880-3850,No,No,30,No
+672300,2012-11-30,8:30,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,S.V.|880-5987,No,No,14,No
+672305,2012-11-30,14:19,L195/AE,195,Lego,Airplane,8 and up,4,23.8,12.36,Mastercard,Z.T.|880-7477,No,No,30,No
+672354,2012-11-30,16:04,D255/FE,192,Duplo,Policemen,6 and up,4,39.8,20.68,Visa,Y.P.|880-6894,No,No,30,Yes
+672359,2012-11-30,10:43,L210/CS,210,Lego,Cowboys with Horses,6 and up,2,18.9,9.26,Visa,V.W.|880-8599,No,No,30,No
+672390,2012-12-01,11:32,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,3,29.85,13.44,Gift Card,U.O.|880-3720,No,No,38,Yes
+672390,2012-12-01,11:32,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Gift Card,U.O.|880-3720,No,No,38,Yes
+672403,2012-12-01,11:57,L196/AR,196,Lego,Antique Car,8 and up,1,7.95,4.45,Visa,Z.Q.|880-4240,No,No,26,No
+672419,2012-12-01,20:01,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,5,49.75,22.4,Visa,H.B.|880-3254,No,No,36,No
+672464,2012-12-01,13:03,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,Z.T.|880-7477,No,No,35,No
+672464,2012-12-01,13:03,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,Z.T.|880-7477,No,No,35,No
+672500,2012-12-03,9:21,L195/AE,195,Lego,Airplane,8 and up,5,29.75,15.45,Visa,D.Z.|880-1179,No,Yes,33,Yes
+672540,2012-12-03,12:37,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Gift Card,D.W.|880-7199,No,No,26,No
+672545,2012-12-03,16:15,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,B.B.|880-9330,No,Yes,47,No
+672545,2012-12-03,16:15,L195/AE,195,Lego,Airplane,8 and up,2,11.9,6.18,Visa,B.B.|880-9330,No,Yes,47,No
+672587,2012-12-04,9:40,L212/SD,212,Lego,Scooter and Stand,6 and up,4,19.8,8.92,Check,L.C.|880-6872,No,No,38,No
+672616,2012-12-04,18:58,D250/AT,192,Duplo,Policemen,6 and up,5,49.75,25.85,Cash,D.Z.|880-1179,No,No,30,No
+672616,2012-12-04,18:58,D198/LX,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,D.Z.|880-1179,No,No,30,No
+672618,2012-12-04,15:12,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Discover,U.W.|880-9683,No,No,35,Yes
+672630,2012-12-04,12:08,D255/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Mastercard,S.Y.|880-3139,Yes,No,31,No
+672630,2012-12-04,12:08,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,S.Y.|880-3139,Yes,No,31,No
+672630,2012-12-04,12:08,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Mastercard,S.Y.|880-3139,Yes,No,31,No
+672646,2012-12-04,9:16,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Visa,C.X.|880-3590,No,No,48,Yes
+672657,2012-12-05,8:37,L330/GN,330,Lego,Gas Station,8 and up,1,32.95,19.11,Cash,S.Y.|880-3139,No,No,38,No
+672698,2012-12-05,19:25,L197/FS,199,Duplo,Scooter,4 and up,2,9.9,5.04,Mastercard,C.X.|880-3590,No,No,38,No
+672701,2012-12-05,14:37,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,W.B.|880-9647,No,No,63,Yes
+672701,2012-12-05,14:37,D198/LX,192,Duplo,Policemen,6 and up,2,19.9,10.34,Mastercard,W.B.|880-9647,No,No,63,Yes
+672726,2012-12-05,15:44,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Mastercard,D.S.|880-7532,Yes,Yes,39,No
+672756,2012-12-05,12:55,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,A.U.|880-2167,No,No,22,No
+672798,2012-12-05,13:47,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,W.B.|880-9647,No,No,55,No
+672798,2012-12-05,13:47,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,W.B.|880-9647,No,No,55,No
+672809,2012-12-06,15:58,L195/AE,195,Lego,Airplane,8 and up,4,23.8,12.36,Mastercard,B.Y.|880-6845,No,No,32,Yes
+672831,2012-12-06,15:28,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,B.Y.|880-6845,No,No,43,No
+672839,2012-12-06,14:13,D255/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Cash,H.B.|880-3254,No,No,27,No
+672856,2012-12-06,16:36,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Mastercard,V.W.|880-4523,No,No,28,Yes
+672869,2012-12-06,10:40,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,A.U.|880-2167,No,No,41,No
+672904,2012-12-07,15:30,D255/FE,192,Duplo,Policemen,6 and up,5,49.75,25.85,Cash,V.W.|880-4523,No,No,25,No
+672950,2012-12-07,14:18,D255/FE,192,Duplo,Policemen,6 and up,4,39.8,20.68,Visa,B.B.|880-9330,No,No,39,No
+673000,2012-12-07,11:10,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,V.W.|880-4523,No,No,40,No
+673009,2012-12-07,14:21,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,H.B.|880-3254,No,No,44,No
+673025,2012-12-08,15:43,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Mastercard,L.W.|880-4986,No,No,44,No
+673059,2012-12-08,11:01,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,D.S.|880-7532,No,Yes,32,No
+673099,2012-12-09,16:57,D250/AT,192,Duplo,Policemen,6 and up,2,19.9,10.34,Visa,S.V.|880-5987,No,No,38,Yes
+673143,2012-12-09,12:28,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Gift Card,Z.T.|880-7477,No,No,36,No
+673145,2012-12-09,15:39,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Visa,L.C.|880-6872,No,No,58,Yes
+673159,2012-12-09,16:22,D192/PN,192,Duplo,Policemen,6 and up,4,39.8,20.68,Visa,B.Y.|880-6845,No,No,40,No
+673176,2012-12-09,13:08,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,2,19.9,8.96,Cash,Z.T.|880-7477,No,No,38,No
+673176,2012-12-09,13:08,D255/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Cash,Z.T.|880-7477,No,No,38,No
+673199,2012-12-09,16:40,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Visa,D.S.|880-7532,No,No,28,No
+673243,2012-12-10,18:46,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,D.S.|880-7532,No,No,35,No
+673243,2012-12-10,18:46,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Visa,D.S.|880-7532,No,No,35,No
+673269,2012-12-10,13:41,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,D.U.|880-2953,No,No,32,No
+673286,2012-12-11,10:21,L197/FS,199,Duplo,Scooter,4 and up,4,19.8,10.08,Mastercard,B.X.|880-9149,No,No,40,No
+673312,2012-12-11,8:07,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Mastercard,W.B.|880-9647,No,No,39,No
+673325,2012-12-11,16:03,L196/AR,196,Lego,Antique Car,8 and up,1,7.95,4.45,Mastercard,Z.T.|880-7477,No,No,47,No
+673358,2012-12-11,9:43,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,A.U.|880-2167,No,No,34,No
+673395,2012-12-11,14:13,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Discover,A.U.|880-2167,Yes,No,48,No
+673423,2012-12-11,14:04,D192/PN,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,U.O.|880-3720,No,No,44,No
+673423,2012-12-11,14:04,L340/FS,340,Lego,Fire Trucks,6 and up,1,34.95,19.92,Cash,U.O.|880-3720,No,No,44,No
+673424,2012-12-12,16:07,D255/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Cash,Y.P.|880-6894,No,No,31,No
+673441,2012-12-12,10:29,D255/FE,192,Duplo,Policemen,6 and up,5,49.75,25.85,Visa,S.V.|880-5987,No,No,41,Yes
+673441,2012-12-12,10:29,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Visa,S.V.|880-5987,No,No,41,Yes
+673469,2012-12-12,19:17,D255/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Gift Card,W.B.|880-9647,No,No,8,Yes
+673506,2012-12-12,12:55,L197/FS,199,Duplo,Scooter,4 and up,1,4.95,2.52,Cash,D.S.|880-7532,No,No,39,No
+673506,2012-12-12,12:55,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,D.S.|880-7532,No,No,39,No
+673539,2012-12-12,16:02,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Visa,B.Y.|880-6845,No,Yes,33,Yes
+673539,2012-12-12,16:02,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Visa,B.Y.|880-6845,No,Yes,33,Yes
+673561,2012-12-12,15:43,D250/AT,192,Duplo,Policemen,6 and up,2,19.9,10.34,Visa,B.X.|880-9149,No,No,37,Yes
+673561,2012-12-12,15:43,L195/AE,195,Lego,Airplane,8 and up,2,11.9,6.18,Visa,B.X.|880-9149,No,No,37,Yes
+673581,2012-12-12,10:42,D250/AT,192,Duplo,Policemen,6 and up,4,39.8,20.68,Check,V.W.|880-8599,No,No,28,No
+673589,2012-12-12,16:39,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,2,19.9,8.96,Gift Card,S.Y.|880-3139,No,No,58,No
+673633,2012-12-13,10:25,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,D.Z.|880-1179,No,Yes,35,No
+673634,2012-12-13,15:44,L212/SD,212,Lego,Scooter and Stand,6 and up,2,9.9,4.46,Mastercard,D.U.|880-2953,No,No,64,Yes
+673678,2012-12-13,12:40,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,N.W.|880-6237,No,No,44,Yes
+673688,2012-12-13,13:15,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,V.W.|880-8599,No,No,75,No
+673688,2012-12-13,13:15,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Cash,V.W.|880-8599,No,No,75,No
+673728,2012-12-13,16:01,D254/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Visa,D.Z.|880-1179,No,No,38,No
+673771,2012-12-13,10:07,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,5,49.75,22.4,Visa,U.W.|880-9683,No,No,30,No
+673799,2012-12-14,12:00,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Visa,V.W.|880-8599,No,No,34,No
+673803,2012-12-14,16:17,D254/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Cash,B.Y.|880-6845,No,No,22,No
+673822,2012-12-14,11:31,L195/AE,195,Lego,Airplane,8 and up,5,29.75,15.45,Cash,W.C.|880-4861,No,No,41,No
+673823,2012-12-14,14:58,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Discover,B.Y.|880-6845,No,No,28,Yes
+673867,2012-12-14,12:22,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,B.X.|880-9149,No,No,29,No
+673882,2012-12-15,16:01,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,2,19.9,8.96,Visa,D.W.|880-7199,No,Yes,34,No
+673882,2012-12-15,16:01,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,D.W.|880-7199,No,Yes,34,No
+673920,2012-12-15,13:47,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Discover,B.Y.|880-6845,No,Yes,29,No
+673920,2012-12-15,13:47,D254/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Discover,B.Y.|880-6845,No,Yes,29,No
+673961,2012-12-16,20:00,D255/FE,192,Duplo,Policemen,6 and up,4,39.8,20.68,Visa,S.V.|880-5987,No,Yes,42,No
+673990,2012-12-16,12:20,L212/SD,212,Lego,Scooter and Stand,6 and up,1,4.95,2.23,Cash,D.S.|880-7532,No,No,39,No
+673990,2012-12-16,12:20,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,D.S.|880-7532,No,No,39,No
+674019,2012-12-16,12:21,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,N.W.|880-6237,No,No,49,No
+674050,2012-12-16,20:19,D250/AT,192,Duplo,Policemen,6 and up,2,19.9,10.34,Cash,W.B.|880-9647,No,Yes,35,No
+674055,2012-12-16,9:09,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,3,29.85,13.44,Check,N.W.|880-6237,Yes,No,39,No
+674097,2012-12-17,14:18,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,D.S.|880-7532,No,No,35,No
+674097,2012-12-17,14:18,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,D.S.|880-7532,No,No,35,No
+674126,2012-12-17,17:33,L195/AE,195,Lego,Airplane,8 and up,4,23.8,12.36,Cash,U.W.|880-9683,No,No,31,No
+674158,2012-12-17,13:21,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,D.U.|880-2953,No,No,31,No
+674171,2012-12-17,15:54,L195/AE,195,Lego,Airplane,8 and up,4,23.8,12.36,Visa,D.Z.|880-1179,No,Yes,28,Yes
+674195,2012-12-18,18:39,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Discover,W.C.|880-4861,Yes,Yes,38,No
+674195,2012-12-18,18:39,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Discover,W.C.|880-4861,Yes,Yes,38,No
+674195,2012-12-18,18:39,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Discover,W.C.|880-4861,Yes,Yes,38,No
+674225,2012-12-19,15:59,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Visa,D.S.|880-7532,No,No,42,No
+674225,2012-12-19,15:59,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Visa,D.S.|880-7532,No,No,42,No
+674266,2012-12-19,15:00,D254/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Visa,W.B.|880-9647,No,No,67,No
+674286,2012-12-20,15:42,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Mastercard,U.O.|880-3720,No,No,31,No
+674286,2012-12-20,15:42,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,U.O.|880-3720,No,No,31,No
+674306,2012-12-20,12:37,D255/FE,192,Duplo,Policemen,6 and up,4,39.8,20.68,Cash,A.U.|880-2167,Yes,No,24,No
+674332,2012-12-20,15:12,L340/FS,340,Lego,Fire Trucks,6 and up,4,139.8,79.68,Cash,D.W.|880-7199,No,No,37,No
+674363,2012-12-21,9:21,L197/FS,199,Duplo,Scooter,4 and up,2,9.9,5.04,Cash,V.W.|880-4523,No,No,18,No
+674363,2012-12-21,9:21,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Cash,V.W.|880-4523,No,No,18,No
+674377,2012-12-22,8:25,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Cash,D.S.|880-7532,No,No,30,Yes
+674377,2012-12-22,8:25,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Cash,D.S.|880-7532,No,No,30,Yes
+674404,2012-12-22,12:22,L195/AE,195,Lego,Airplane,8 and up,2,11.9,6.18,Visa,L.W.|880-4986,No,No,34,Yes
+674404,2012-12-22,12:22,D250/AT,192,Duplo,Policemen,6 and up,2,19.9,10.34,Visa,L.W.|880-4986,No,No,34,Yes
+674410,2012-12-22,11:48,D255/FE,192,Duplo,Policemen,6 and up,3,29.85,15.51,Cash,D.W.|880-7199,No,No,27,No
+674410,2012-12-22,11:48,D255/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,D.W.|880-7199,No,No,27,No
+674444,2012-12-23,16:10,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,Y.P.|880-6894,Yes,No,30,No
+674445,2012-12-23,15:45,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,1,9.95,4.48,Discover,W.B.|880-9647,No,No,56,No
+674445,2012-12-23,15:45,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Discover,W.B.|880-9647,No,No,56,No
+674481,2012-12-24,12:59,D250/AT,192,Duplo,Policemen,6 and up,1,9.95,5.17,Cash,Z.T.|880-7477,No,No,41,No
+674524,2012-12-24,16:58,L196/AR,196,Lego,Antique Car,8 and up,1,7.95,4.45,Mastercard,W.B.|880-9647,No,No,38,Yes
+674560,2012-12-25,12:49,D254/FE,192,Duplo,Policemen,6 and up,2,19.9,10.34,Check,V.W.|880-8599,No,No,23,No
+674575,2012-12-25,18:46,L197/FS,199,Duplo,Scooter,4 and up,5,24.75,12.6,Cash,L.C.|880-6872,No,No,35,No
+674624,2012-12-25,11:33,L195/AE,195,Lego,Airplane,8 and up,1,5.95,3.09,Cash,L.W.|880-4986,No,No,32,No
+674655,2012-12-25,15:33,L256/PE,256,Lego,Police Officers and Motorcycle,9 and up,2,19.9,8.96,Mastercard,S.V.|880-5987,No,No,48,No
+674655,2012-12-25,15:33,D254/FE,192,Duplo,Policemen,6 and up,1,9.95,5.17,Mastercard,S.V.|880-5987,No,No,48,No

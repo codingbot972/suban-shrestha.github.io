@@ -1,0 +1,223 @@
+/**
+
+Toy Sales Data Exploration
+
+Skills used mine: Joins, Aggregate Functions, CTE's (common table expression),Creating Views, Creating Temp Tables, Inserting Updating and Deleting records
+
+**/
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+/** Summarizing the data
+
+--Finding out the total revenue and total number of transactions per toy.
+From our findings, the toy Policemen were most sold items with 560 transactions and $9950 in value, where as the Scooter and Stand had least $ value sales.
+
+
+SELECT
+	Toy_Name,
+        ROUND(SUM(Total_Line_Revenue), 2) AS TOTAL_REVENUE,
+	COUNT(*) AS TOTAL_TRANSACTIONS
+FROM TOY_DETAIL
+GROUP BY Toy_Name
+ORDER BY TOTAL_TRANSACTIONS DESC;
+
+
+-- Finding out the Toys that are more expensive than average toy price.--
+SELECT 
+	Toy_Item_Number, toy_name, Price_Per_Toy
+FROM toy_price
+WHERE Price_Per_Toy > (
+	SELECT AVG(price_per_toy)
+	FROM toy_price)
+ORDER BY Price_Per_Toy DESC;
+
+
+
+--Finding out the total unis sold in each year.
+
+SELECT 
+	DISTINCT YEAR(Date) AS Year,
+	ROUND(SUM(Units_Sold),0) as Total_Units_Sold
+FROM toy_detail
+GROUP BY Year;
+
+
+
+--Finding out the Age Group that has more demand for Toys.
+-- From the analysis, Age group 6 and up have more demand for product with 586 total transaction made whereas 7 an up age group has least demand with only 19 transaction made.
+
+SELECT
+	Suggested_Age,
+	COUNT(Invoice_Number) AS Total_Transaction
+FROM toy_detail
+Group BY Suggested_Age
+ORDER BY Total_Transaction ASC;
+
+
+
+--Finding out the most busiest season for the business
+--From the analysis, November and December are the busiest time for the business.Hence, management may have to hire temp workers for those months.
+
+SELECT 
+	MONTHNAME(date) as Month,
+	COUNT(*) as Number_Of_Transaction
+FROM toy_detail
+GROUP BY month
+ORDER BY Number_Of_Transaction DESC;
+
+
+
+--Finding out the most Busiest hours of the day 
+--From the analysis, most customers comes to the store in between 11 am - 4 pm. Highest number of customers visit was at 3 pm with 138 transaction.Hence, management may need to employee more worker on those hours to serve customers efficiently.
+
+SELECT 
+	HOUR(time) AS Hours, 
+	COUNT(*) AS Total_Transaction
+FROM toy_detail
+GROUP BY HOUR(time)
+ORDER BY Hours;
+
+
+
+--Finding out the age of the customer who bought toys for their kids
+--From the analysis, Age group 'Inbetween 30-40' tend to buy more toys for their kids as they made 532 transactions in comparision to 171 from below 30 and 297 from above 40 age group.
+
+SELECT 
+	COUNT(Invoice_Number) as Transaction,
+	'Below 30' AS Age_Group
+FROM toy_detail
+WHERE Purchaser_Age <30
+UNION
+SELECT 
+	COUNT(Invoice_Number) as Transaction,
+	'InBetween 30-40' AS Age_Group
+FROM toy_detail
+WHERE Purchaser_Age BETWEEN 30 AND 40
+UNION
+SELECT 
+	COUNT(Invoice_Number) as Transaction,
+	'Above 40' AS Age_Group
+FROM toy_detail
+WHERE Purchaser_Age >40;
+
+
+
+--Finding out only those invoices whose Total Revenue is greater than $100
+
+SELECT 
+	Invoice_Number,
+	ROUND(SUM(Total_Line_Revenue),0) as Total_Revenue
+FROM toy_detail
+GROUP BY Invoice_Number
+HAVING Total_Revenue >100
+ORDER BY Total_Revenue;
+
+
+
+
+--Finding out the most Favourite Payment method used by Customer.
+--From the Analysis, Visa card was used most by the customer followed by cash and mastercard.
+
+SELECT
+	Payment AS Payment_Method,
+	COUNT(Payment) AS No_Of_Payment
+FROM toy_detail
+GROUP BY Payment_Method
+ORDER BY No_Of_Payment DESC;
+
+
+
+--Finding out the all the details from Toy_Detail table Where Internal_Toy_ID_Number contains either AE or FE Limit by 5
+
+SELECT *
+FROM toy_detail
+WHERE Internal_Toy_ID_Number LIKE '%AE%' OR
+	Internal_Toy_ID_Number LIKE '%FE%'
+LIMIT 5;
+
+
+**/
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+/** INSERTING, UPDATIND AND DELETING RECORDS
+
+--INSERTING DATA
+
+INSERT INTO toy_price(Toy_Item_Number,Toy_Company, Toy_Name, Price_Per_Toy)
+VALUES (500, 'Barbie', 'Barbie Doll', 20),
+	(1000, 'Dinsey', 'Disney Car', 10);
+
+
+--UPDATIND SINGLE ROW
+
+UPDATE toy_price
+SET Price_Per_Toy = 15
+WHERE Toy_Company = 'Barbie';
+
+
+--DELETING ROW
+
+DELETE FROM toy_price
+WHERE Toy_Item_Number = 1000;
+
+**/
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+/** CREATING VIEW
+
+--Creating View for calculating Total_Profit for individual Toy.
+--I assumed that there is no Total_Line_Revenue in toy_detail table, hence, I was able to show Join function while creating view.
+
+
+CREATE VIEW Total_Profit AS
+SELECT
+	td.Toy_Name as Toy_Name,
+	ROUND(sum((td.Units_Sold * tp.Price_Per_Toy) - Total_COGS), 0) as Total_Profit
+FROM toy_detail td
+JOIN toy_price tp
+	ON td.Toy_Item_Number = tp.Toy_Item_Number
+GROUP BY Toy_Name
+ORDER BY  Total_Profit DESC;
+
+
+**/
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+/** CREATING TEMPORARY TABLE
+
+--Creating Temperory Table for the purpose of Analyzing profit per toy
+
+
+CREATE TEMPORARY TABLE IF NOT EXISTS Temp_Table
+SELECT
+	td.Toy_Name as Toy_Name,
+	ROUND(sum((td.Units_Sold * tp.Price_Per_Toy) - Total_COGS), 0) as Total_Profit
+FROM toy_detail td
+JOIN toy_price tp
+	ON td.Toy_Item_Number = tp.Toy_Item_Number
+GROUP BY Toy_Name
+ORDER BY  Total_Profit DESC;
+
+**/
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+/** CREATEING CTE (Common Table expression)
+
+
+WITH CTEMax_Revenue AS(
+SELECT toy_name, Round(AVG(Total_Line_Revenue),0) AS AVG_Revenue
+FROM toy_detail
+GROUP BY toy_name)
+SELECT MAX(AVG_Revenue) FROM CTEMax_Revenue;
+
+
+**/
